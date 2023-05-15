@@ -24,4 +24,4 @@ For the transformation step following steps were followed:
 ![image](Load/erd.png)
 
 - Imdb [schema](https://github.com/joshi-swetam/ETL_IMDB/blob/load/Load/schema.sql) was created using Postgresql and pgADMIN 4 
- - Basic queris such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](Load\Queries.sql).
+ - Basic queris such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql).
