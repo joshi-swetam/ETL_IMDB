@@ -14,13 +14,14 @@ For this project we created relational database for top 250 IMDB TV series and  
 
 ## Transformation
 For the transformation step following steps were followed: 
-* read data from extracted csv files from [Resources](Resources) folder
+-  read data from extracted csv files from [Resources](Resources) folder
 - transform data to generate relational model
 - save tranformed data to csv file in [output](output) folder
 
 ## Load
 
-- https://www.quickdatabasediagrams.com/ was used to create [erd](erd) diagram ![image](Load/erd.png)
+- https://www.quickdatabasediagrams.com/ was used to create [erd](erd) diagram 
+![image](Load/erd.png)
 
 - Imdb [schema](Load\schema.sql) was created using Postgresql and pgADMIN 4 
  - Basic queris such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](Load\Queries.sql).
