@@ -8,7 +8,7 @@ For this project we created relational database for top 250 IMDB TV series and  
 
 ## Extraction
 
-- For the first source, IMDB <https://www.imdb.com/list/ls008957859/> was scraped to get the data for the title,rank,actors,synopsis, votes, rating etc. The code for scraping can be found [here](ETL_IMDB/Extraction/IMDB_Scrape.ipynb) and the resulting dataset can be located [here](ETL_IMDB\Transformation\Resources\IMDB_cleaned_Top_250.csv)
+- For the first source, IMDB <https://www.imdb.com/list/ls008957859/> was scraped to get the data for the title,rank,actors,synopsis, votes, rating etc. The code for scraping can be found [here](https://github.com/joshi-swetam/ETL_IMDB/blob/extract/Extraction/IMDB_Scrape.ipynb) and the resulting dataset can be located [here](ETL_IMDB\Transformation\Resources\IMDB_cleaned_Top_250.csv)
 
 - For thr csv files of the emmy award winners and nomination across various categories , we used Pandas function `pd.read_html` and got 7 files across the years 2010-2022 which can be loacted [here](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Extraction/IMDB_Scrape.ipynb)
 
