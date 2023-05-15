@@ -1,7 +1,9 @@
 # ETL_IMDB
 
 For this project we created relational database for top 250 IMDB TV series and  emmy awards for these series if any for the years 2010-2022.
-![image](Extraction/IMDB%20image.png)
+
+
+   ![image](Extraction/IMDB%20image.png)
 
 ## Extraction
 
