@@ -4,7 +4,7 @@ For this project we created relational database for top 250 IMDB TV series and  
 
 
 
-   ![image](Extraction/IMDB%20image.png)
+   ![image](Extraction/Picture1.png)
 
 ## Extraction
 
@@ -112,4 +112,4 @@ series_nominees_df.head()
 ![image](Load/erd.png)
 
 - Imdb [schema](https://github.com/joshi-swetam/ETL_IMDB/blob/load/Load/schema.sql) was created using Postgresql and pgADMIN 4 
- - Basic queries such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql).
+ - Basic queries such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql) to check schema.
