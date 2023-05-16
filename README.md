@@ -45,24 +45,71 @@ for each in title_list:
     all_details_list.append(dict_elements) 
     print(dict_elements)
 ~~~
+- Final dataframe looked like the image below
 
-
+![image](Extraction/dataframe%20image.png)
     
 - For the csv files of the emmy award winners and nomination across various categories , we used Pandas function `pd.read_html` and got 7 files across the years 2010-2022 which can be loacted [here](https://github.com/joshi-swetam/ETL_IMDB/tree/extract/Extraction/Resources)
 
 ## Transformation
 For the transformation following steps were followed: 
-- Initial cleaning was like stripping and replacing was done while extracting. Further cleaning and transformation required next steps.
+- Initial cleaning like stripping and replacing spaces,characters etc. was done while extracting. Further cleaning and transformation required next steps.
 - Read data from extracted csv files from [Resources](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/Resources) folder.
-- Creating dataframes 
-- Transform data to generate relational model.
+- Initial csv files required dropping few columns, adding ids to tables, splitting columns to create new columns and finally creating relational database.
+-  Because we did not have csv files with all the winners in the same csv, we had to combine them and assign ids based on the actors,categories etc. This was very challenging part for us to come up with the ways to create relations between the tables so that we can finally query our database.
+- One such example is the code below for context.
 
-- save tranfsormed data to csv file in [output](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/output) folder
+~~~ actors = []
+# get genres from imdb df
+for index, row in imdb_top_250_df.iterrows():
+    actors.extend(row['Actor/Actress'].strip().strip("").replace('[','').replace(']','').replace('\'', '').split(', '))
+
+actors = pd.concat([pd.Series(actors)
+                    , pd.Series(lead_actor_actress_df['Actor/Actress'])
+                    , pd.Series(supporting_actor_actress_nominees_df['Actor/Actress'])
+                    , pd.Series(winners_df['Lead Comedy Actor'])
+                    , pd.Series(winners_df['Lead Drama Actor'])
+                    , pd.Series(winners_df['Lead Comedy Actress'])
+                    , pd.Series(winners_df['Lead Drama Actress'])]
+                    , axis=0, ignore_index=True)
+                
+
+actors = actors.unique()
+actors 
+~~~
+
+- Transformation also required merging dataframes to create the final database.
+~~~ 
+series_nominees_df = series_nominees_df.merge(titles_df, left_on='Titles', right_on='Titles', how='inner')
+series_nominees_df = series_nominees_df.merge(network_df, left_on='Network', right_on='Network', how='inner')
+series_nominees_df = series_nominees_df.merge(category_df, left_on='Category', right_on='Category', how='inner')
+
+series_nominees_df = series_nominees_df[['Year','title_id','network_id','category_id','Producers','Result']]
+
+series_award_id = award_df.loc[(award_df['award']=='Series')]['award_id']
+
+series_nominees_df.insert(0, 'award_id', series_award_id)
+series_nominees_df.insert(3, 'actor_id', np.NaN)
+series_nominees_df.insert(6, 'role', np.NaN)
+series_nominees_df.insert(7, 'episode', np.NaN)
+
+series_nominees_df = series_nominees_df.rename(columns={ 'Year': 'year', 'Producers': 'producers', 'Result': 'winner'})
+
+series_nominees_df['award_id'] = 1
+
+series_nominees_df['winner'] = np.where(series_nominees_df['winner']=='Winner', True, False)
+
+series_nominees_df.head() 
+~~~ 
+
+
+
+- Final step was to save the tranfsormed data to csv file in [output](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/output) folder
 
 ## Load
-
+- For the loading part we started with creating Relational database diagram.
 - https://www.quickdatabasediagrams.com/ was used to create [erd](erd) diagram 
 ![image](Load/erd.png)
 
 - Imdb [schema](https://github.com/joshi-swetam/ETL_IMDB/blob/load/Load/schema.sql) was created using Postgresql and pgADMIN 4 
- - Basic queris such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql).
+ - Basic queries such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql).
