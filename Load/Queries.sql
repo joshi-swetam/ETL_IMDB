@@ -13,7 +13,7 @@ join actor as ac
 on ac.actor_id = n.actor_id
 join category as c
 on c.category_id = n.category_id
-where year = 2020 and n.winner = True and c.category = 'Drama';
+where year = 2020 and n.winner = True and category = 'Drama' ;
 
 
 -- Series winner across years 
