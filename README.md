@@ -51,10 +51,13 @@ for each in title_list:
 - For the csv files of the emmy award winners and nomination across various categories , we used Pandas function `pd.read_html` and got 7 files across the years 2010-2022 which can be loacted [here](https://github.com/joshi-swetam/ETL_IMDB/tree/extract/Extraction/Resources)
 
 ## Transformation
-For the transformation step following steps were followed: 
--  read data from extracted csv files from [Resources](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/Resources) folder
-- transform data to generate relational model
-- save tranformed data to csv file in [output](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/output) folder
+For the transformation following steps were followed: 
+- Initial cleaning was like stripping and replacing was done while extracting. Further cleaning and transformation required next steps.
+- Read data from extracted csv files from [Resources](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/Resources) folder.
+- Creating dataframes 
+- Transform data to generate relational model.
+
+- save tranfsormed data to csv file in [output](https://github.com/joshi-swetam/ETL_IMDB/tree/transform/Transformation/output) folder
 
 ## Load
 
