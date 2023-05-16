@@ -12,21 +12,38 @@ For this project we created relational database for top 250 IMDB TV series and  
 - In summary, the csv file was created by looping through all the titles based on the classes and getting the desired output by indexing. 
 
 ~~~ 
-titles = each.h3.a.get_text()
-title_link = each.h3.a['href'] 
-rank = each.h3.find('span', class_ = 'lister-item-index unbold text-primary').get_text().replace('.', '')
-run_years = each.h3.find('span',class_ = 'lister-item-year text-muted unbold').get_text()
-p_tag = each.find_all('p',class_ = 'text-muted text-small')
-certificate = p_tag[0].find('span', class_= "certificate").get_text().replace('TV-','')
-runtime = p_tag[0].find('span',class_= "runtime").get_text().replace('min','')
-
-genre = p_tag[0].find('span', class_= "genre").get_text().strip()
-
-Rating = each.find('span', class_ = 'ipl-rating-star__rating').get_text()
-Actor = p_tag[1].find_all('a')
-Actors = [actor.get_text() for actor in Actor]
-Votes = p_tag[2].find_all('span')[1].get_text().replace(',','')
-Synopsis = each.find_all('p')[1].get_text().strip() 
+for each in title_list:
+    try:
+        
+        titles = each.h3.a.get_text()
+        title_link = each.h3.a['href'] 
+        rank = each.h3.find('span', class_ = 'lister-item-index unbold text-primary').get_text().replace('.', '')
+        run_years = each.h3.find('span',class_ = 'lister-item-year text-muted unbold').get_text()
+        p_tag = each.find_all('p',class_ = 'text-muted text-small')
+        certificate = p_tag[0].find('span', class_= "certificate").get_text().replace('TV-','')
+        runtime = p_tag[0].find('span', class_= "runtime").get_text().replace('min','')
+        genre = p_tag[0].find('span', class_= "genre").get_text().strip()
+        Rating = each.find('span', class_ = 'ipl-rating-star__rating').get_text()
+        Actor = p_tag[1].find_all('a')
+        Actors = [actor.get_text() for actor in Actor]
+        Votes = p_tag[2].find_all('span')[1].get_text().replace(',','')
+        Synopsis = each.find_all('p')[1].get_text().strip()
+    except :
+        pass
+    dict_elements = {'Title' : titles,
+                    'url' : title_link,
+                    'Rank' : rank,
+                    'Years of running' : run_years,
+                    'Certificate' : certificate,
+                    'Run time in minutes' : runtime,
+                    'Genre' : genre,
+                    'Rating' : Rating,
+                    'Actors' : Actors,
+                    'Votes' : Votes,
+                    'Synopsis' : Synopsis}                        
+    # Add the dictionary to the list
+    all_details_list.append(dict_elements) 
+    print(dict_elements)
 ~~~
 
 
