@@ -112,4 +112,4 @@ series_nominees_df.head()
 ![image](Load/erd.png)
 
 - Imdb [schema](https://github.com/joshi-swetam/ETL_IMDB/blob/load/Load/schema.sql) was created using Postgresql and pgADMIN 4 
- - Basic queries such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql) to check schema.
+ - Basic queries such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql) to check schema. For example the below is the reult for the query how many emmmy awards Breaking Bad won over 2010-2022 ![image](Extraction/query%20result.png)
