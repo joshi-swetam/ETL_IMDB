@@ -1,6 +1,6 @@
 # ETL_IMDB
 
-For this project we created relational database for top 250 IMDB TV series and  emmy awards for these series if any for the years 2010-2022.
+For this project we created relational database for top 250 IMDB TV series and  emmy awards for these series if any for the years 2010-2022.We used sql alchemy for object relational mapping and creating queries using Python. This was followed by creating app route using [flask](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/SQLAlchemy%20and%20Flask/app.py)
 
 
 
@@ -113,3 +113,16 @@ series_nominees_df.head()
 
 - Imdb [schema](https://github.com/joshi-swetam/ETL_IMDB/blob/load/Load/schema.sql) was created using Postgresql and pgADMIN 4 
  - Basic queries such as select titles, rank and rating  and winners yearwise based on  the category from titles and top 250 tables were [performed](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/Queries.sql) to check schema. For example below is the result for the query how many emmmy awards Breaking Bad won over 2010-2022 ![image](Extraction/query%20result.png)
+
+ - For the final step in this project we used SQLAlchemy for object relational mapping and created datafreames for the resulting queries. The script for the same can be refered [here](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/SQLAlchemy%20and%20Flask/sql_alchemy_query.ipynb)
+ - [App routes](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/SQLAlchemy%20and%20Flask/app.py)
+ ~~~
+  "/api/v1.0/<TV>"
+  ~~~
+  and 
+  ~~~
+  "/api/v1.0/<Actor>"
+  ~~~
+were created which willgive results in json for the TV show or actor provided in the url. 
+for.eg below is the result for the show Veep ![image](Extraction/approute.png.png)
+
