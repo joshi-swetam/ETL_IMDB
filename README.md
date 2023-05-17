@@ -4,6 +4,7 @@ For this project we created relational database for top 250 IMDB TV series and  
 
 
 
+
    ![image](Extraction/Picture1.png)
 
 ## Extraction
@@ -126,5 +127,5 @@ series_nominees_df.head()
 were created which will give results in json for the TV show or actor provided in the url. 
 for.eg below is the result for the show Veep 
 
-![image](Extraction/approute.png.png)
+![image](Extraction/approute.png)
 
