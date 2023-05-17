@@ -123,6 +123,8 @@ series_nominees_df.head()
   ~~~
   "/api/v1.0/<Actor>"
   ~~~
-were created which willgive results in json for the TV show or actor provided in the url. 
-for.eg below is the result for the show Veep ![image](Extraction/approute.png.png)
+were created which will give results in json for the TV show or actor provided in the url. 
+for.eg below is the result for the show Veep 
+
+![image](Extraction/approute.png.png)
 
