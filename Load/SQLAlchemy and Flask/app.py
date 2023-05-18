@@ -15,17 +15,7 @@ from flask import Flask, jsonify
 #create connection
 engine = create_engine(f"postgresql+psycopg2://postgres:{password}@localhost:5433/IMDB")
 
-# reflect an existing database into a new model
-Base = automap_base()
-Base.prepare(autoload_with=engine)
-# Save references to each table
-title = Base.classes.title
-imdb_top_250 = Base.classes.imdb_top_250
-category = Base.classes.category
-award = Base.classes.award
-nomination = Base.classes.nomination
-actor = Base.classes.actor
-network = Base.classes.network
+
 
 # Flask Setup
 #################################################
@@ -43,15 +33,26 @@ def welcome():
         f"Available Routes:<br/>"
         f"enter the name of TV show at the url to get results for the show  eg. /api/v1.0/Breaking Bad<br/>"
         f'<br/>'
-        f"/api/v1.0/TV<br/>"
+        f"/api/v1.0/TV/<br/>"
         f"enter the name of Actor at the url to get results for the actor eg./api/v1.0/Zendaya<br/>"
         f"<br/>"
-        f"/api/v1.0/Actor<br/>"
+        f"/api/v1.0/Actor/<br/>"
         )
 
-@app.route("/api/v1.0/<TV>")
+@app.route("/api/v1.0/TV/<TV>")
 def tvshow(TV):
-    global title,nomination,actor,award
+    #global title,nomination,actor,award
+    # reflect an existing database into a new model
+    Base = automap_base()
+    Base.prepare(autoload_with=engine)
+    # Save references to each table
+    title = Base.classes.title
+    imdb_top_250 = Base.classes.imdb_top_250
+    category = Base.classes.category
+    award = Base.classes.award
+    nomination = Base.classes.nomination
+    actor = Base.classes.actor
+    network = Base.classes.network
     session = Session(engine)
     
 # Perform a query to retrieve the show
@@ -77,10 +78,21 @@ def tvshow(TV):
     return jsonify(result_list)
 
 
-@app.route("/api/v1.0/<Actor>")
+@app.route("/api/v1.0/Actor/<Actor>")
 
 def actors(Actor):
-    global title,nomination,actor,award,category,imdb_top_250
+    #global title,nomination,actor,award,category,imdb_top_250
+    # reflect an existing database into a new model
+    Base = automap_base()
+    Base.prepare(autoload_with=engine)
+    # Save references to each table
+    title = Base.classes.title
+    imdb_top_250 = Base.classes.imdb_top_250
+    category = Base.classes.category
+    award = Base.classes.award
+    nomination = Base.classes.nomination
+    actor = Base.classes.actor
+    network = Base.classes.network
     session = Session(engine)
     results = session.query(title.title,nomination.year,actor.actor,award.award,category.category,imdb_top_250.rank,imdb_top_250.rating).\
         filter(imdb_top_250.title_id == title.title_id).\
