@@ -1,6 +1,6 @@
 # ETL_IMDB
 
-For this project we created relational database for top 250 IMDB TV series and  emmy awards for these series if any for the years 2010-2022.We used sql alchemy for object relational mapping and creating queries using Python. This was followed by creating app route using [flask](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/SQLAlchemy%20and%20Flask/app.py)
+For this project we created relational database for top 250 IMDB TV series and  emmy awards for these series if any for the years 2010-2022.Python package Beautiful Soup was used for web scraping.We used sql alchemy for object relational mapping and creating queries using Python. This was followed by creating app route using [flask](https://github.com/joshi-swetam/ETL_IMDB/blob/main/Load/SQLAlchemy%20and%20Flask/app.py)
 
 
 
