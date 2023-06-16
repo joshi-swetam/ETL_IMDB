@@ -9,6 +9,7 @@ import psycopg2
 from config import password
 from flask import Flask, jsonify
 
+
 #################################################
 # Database Setup
 #################################################
