@@ -1,0 +1,317 @@
+Year,Actor/Actress,Role,Titles,Episode Submissions,Network,Category
+2010,Jim Parsons,Sheldon Cooper,The Big Bang Theory,"""The Pants Alternative""",CBS,Comedy
+2010,Alec Baldwin,Jack Donaghy,30 Rock,"""Don Geiss, America and Hope""",NBC,Comedy
+2010,Steve Carell,Michael Scott,The Office,"""The Cover-Up""",NBC,Comedy
+2010,Larry David,Larry David,Curb Your Enthusiasm,"""Seinfeld""",HBO,Comedy
+2010,Matthew Morrison,Will Schuester,Glee,"""Mash-Up""",Fox,Comedy
+2010,Tony Shalhoub,Adrian Monk,Monk,"""Mr. Monk and the End""",USA,Comedy
+2011,Jim Parsons,Sheldon Cooper,The Big Bang Theory,"""The Agreement Dissection""",CBS,Comedy
+2011,Alec Baldwin,Jack Donaghy,30 Rock,"""Respawn""",NBC,Comedy
+2011,Steve Carell,Michael Scott,The Office,"""Goodbye, Michael""",NBC,Comedy
+2011,Louis C.K.,Louie,Louie,"""Bully""",FX,Comedy
+2011,Johnny Galecki,Leonard Hofstadter,The Big Bang Theory,"""The Benefactor Factor""",CBS,Comedy
+2011,Matt LeBlanc,Matt LeBlanc,Episodes,"""Episode Seven""",Showtime,Comedy
+2012,Jon Cryer,Alan Harper,Two and a Half Men,"""Frodo's Headshots""",CBS,Comedy
+2012,Alec Baldwin,Jack Donaghy,30 Rock,"""Live from Studio 6H""",NBC,Comedy
+2012,Louis C.K.,Louie,Louie,"""Duckling""",FX,Comedy
+2012,Jim Parsons,Sheldon Cooper,The Big Bang Theory,"""The Werewolf Transformation""",CBS,Comedy
+2012,Don Cheadle,Marty Kaan,House of Lies,"""The Gods of Dangerous Financial Instruments""",Showtime,Comedy
+2012,Larry David,Larry David,Curb Your Enthusiasm,"""Palestinian Chicken""",HBO,Comedy
+2013,Jim Parsons,Sheldon Cooper,The Big Bang Theory,"""The Habitation Configuration""",CBS,Comedy
+2013,Alec Baldwin,Jack Donaghy,30 Rock,"""A Goon's Deed in a Weary World""",NBC,Comedy
+2013,Jason Bateman,Michael Bluth,Arrested Development,"""Flight of the Phoenix""",Netflix,Comedy
+2013,Louis C.K.,Louie,Louie,"""Daddy's Girlfriend, Part 1""",FX,Comedy
+2013,Don Cheadle,Marty Kaan,House of Lies,"""Hostile Takeover""",Showtime,Comedy
+2013,Matt LeBlanc,Matt LeBlanc,Episodes,"""Episode Two""",Showtime,Comedy
+2014,Jim Parsons,Sheldon Cooper,The Big Bang Theory,"""The Relationship Diremption""",CBS,Comedy
+2014,Louis C.K.,Louie,Louie,"""Model""",FX,Comedy
+2014,Ricky Gervais,Derek Noakes,Derek,"""Episode 6""",Netflix,Comedy
+2014,Matt LeBlanc,Matt LeBlanc,Episodes,"""Episode Six""",Showtime,Comedy
+2014,Don Cheadle,Marty Kaan,House of Lies,"""Wreckage""",Showtime,Comedy
+2014,William H. Macy,Frank Gallagher,Shameless,"""Lazarus""",Showtime,Comedy
+2015,Jeffrey Tambor,Maura Pfefferman,Transparent,"""The Letting Go""",Amazon,Comedy
+2015,Anthony Anderson,Andre Johnson,Black-ish,"""Sex, Lies, and Vasectomies""",ABC,Comedy
+2015,Louis C.K.,Louie,Louie,"""Bobby's House""",FX,Comedy
+2015,Don Cheadle,Marty Kaan,House of Lies,"""It's a Box Inside a Box Inside a Box, Dipshit""",Showtime,Comedy
+2015,Will Forte,Phil Miller,The Last Man on Earth,"""Alive in Tucson""",Fox,Comedy
+2015,Matt LeBlanc,Matt LeBlanc,Episodes,"""Episode Five""",Showtime,Comedy
+2015,William H. Macy,Frank Gallagher,Shameless,"""A Night to Remem... Wait, What?""",Showtime,Comedy
+2016,Jeffrey Tambor,Maura Pfefferman,Transparent,"""Man on the Land""",Amazon,Comedy
+2016,Anthony Anderson,Andre Johnson,Black-ish,"""Hope""",ABC,Comedy
+2016,Aziz Ansari,Dev Shah,Master of None,"""Parents""",Netflix,Comedy
+2016,Will Forte,Phil Miller,The Last Man on Earth,"""30 Years of Science Down the Tubes""",Fox,Comedy
+2016,William H. Macy,Frank Gallagher,Shameless,"""I Only Miss Her When I'm Breathing""",Showtime,Comedy
+2016,Thomas Middleditch,Richard Hendricks,Silicon Valley,"""The Empty Chair""",HBO,Comedy
+2017,Donald Glover,Earn Marks,Atlanta,"""The Big Bang""",FX,Comedy
+2017,Anthony Anderson,Andre Johnson,Black-ish,"""Lemons""",ABC,Comedy
+2017,Aziz Ansari,Dev Shah,Master of None,"""The Dinner Party""",Netflix,Comedy
+2017,Zach Galifianakis,Chip and Dale Baskets,Baskets,"""Freaks""",FX,Comedy
+2017,William H. Macy,Frank Gallagher,Shameless,"""You Sold Me the Laundromat, Remember?""",Showtime,Comedy
+2017,Jeffrey Tambor,Maura Pfefferman,Transparent,"""Elizah""",Amazon,Comedy
+2018,Bill Hader,Barry Berkman / Barry Block,Barry,"""Chapter Seven: Loud, Fast, and Keep Going""",HBO,Comedy
+2018,Anthony Anderson,Andre Johnson,Black-ish,"""Advance to Go (Collect $200)""",ABC,Comedy
+2018,Ted Danson,Michael,The Good Place,"""Dance Dance Resolution""",NBC,Comedy
+2018,Larry David,Larry David,Curb Your Enthusiasm,"""Fatwa!""",HBO,Comedy
+2018,Donald Glover,Earn Marks,Atlanta,"""Teddy Perkins""",FX,Comedy
+2018,William H. Macy,Frank Gallagher,Shameless,"""Sleepwalking""",Showtime,Comedy
+2019,Bill Hader,Barry Berkman / Barry Block,Barry,"""The Truth Has a Ring to It""",HBO,Comedy
+2019,Anthony Anderson,Andre Johnson,Black-ish,"""Purple Rain""",ABC,Comedy
+2019,Don Cheadle,Maurice Monroe,Black Monday,"""365""",Showtime,Comedy
+2019,Ted Danson,Michael,The Good Place,"""The Worst Possible Use of Free Will""",NBC,Comedy
+2019,Michael Douglas,Sandy Kominsky,The Kominsky Method,"""Chapter One: An Actor Avoids""",Netflix,Comedy
+2019,Eugene Levy,Johnny Rose,Schitt's Creek,"""Rock On!""",Pop TV,Comedy
+2020,Eugene Levy,Johnny Rose,Schitt's Creek,"""The Pitch""",Pop TV,Comedy
+2020,Anthony Anderson,Andre Johnson,Black-ish,"""Love, Boat""",ABC,Comedy
+2020,Don Cheadle,Maurice Monroe,Black Monday,"""Who Are You Supposed to Be?""",Showtime,Comedy
+2020,Ted Danson,Michael,The Good Place,"""Whenever You're Ready""",NBC,Comedy
+2020,Michael Douglas,Sandy Kominsky,The Kominsky Method,"""Chapter 12: A Libido Sits in the Fridge""",Netflix,Comedy
+2020,Ramy Youssef,Ramy Hassan,Ramy,"""You Are Naked in Front of Your Sheikh""",Hulu,Comedy
+2021,Jason Sudeikis,Ted Lasso,Ted Lasso,"""Pilot""",Apple TV+,Comedy
+2021,Anthony Anderson,Andre Johnson,Black-ish,"""What About Gary?""",ABC,Comedy
+2021,Michael Douglas,Sandy Kominsky,The Kominsky Method,"""Chapter 20. The round toes, of the high shoes""",Netflix,Comedy
+2021,William H. Macy,Frank Gallagher,Shameless,"""Father Frank, Full of Grace""",Showtime,Comedy
+2021,Kenan Thompson,Kenan Williams,Kenan,"""Flirting""",NBC,Comedy
+2022,Jason Sudeikis,Ted Lasso,Ted Lasso,"""No Weddings and a Funeral""",Apple TV+,Comedy
+2022,Donald Glover,Earn Marks,Atlanta,"""Sinterklaas is Coming to Town""",FX,Comedy
+2022,Bill Hader,Barry Berkman / Barry Block,Barry,"""starting now""",HBO,Comedy
+2022,Nicholas Hoult,Peter III / Yemelyan Pugachev,The Great,"""Wedding""",Hulu,Comedy
+2022,Steve Martin,Charles-Haden Savage,Only Murders in the Building,"""Open and Shut""",Hulu,Comedy
+2022,Martin Short,Oliver Putnam,Only Murders in the Building,"""How Well Do You Know Your Neighbors?""",Hulu,Comedy
+2010,Edie Falco,Jackie Peyton,Nurse Jackie,"""Pilot""",Showtime,Comedy
+2010,Tina Fey,Liz Lemon,30 Rock,"""Dealbreakers Talk Show#0001""",NBC,Comedy
+2010,Amy Poehler,Leslie Knope,Parks and Recreation,"""Telethon""",NBC,Comedy
+2010,Toni Collette,Tara Gregson,United States of Tara,"""Torando!""",Showtime,Comedy
+2010,Julia Louis-Dreyfus,Christine Campbell,The New Adventures of Old Christine,"""I Love What You Do for Me""",CBS,Comedy
+2010,Lea Michele,Rachel Berry,Glee,"""Sectionals""",Fox,Comedy
+2011,Melissa McCarthy,Molly Flynn,Mike & Molly,"""First Date""",CBS,Comedy
+2011,Edie Falco,Jackie Peyton,Nurse Jackie,"""Rat Falls""",Showtime,Comedy
+2011,Tina Fey,Liz Lemon,30 Rock,"""Double-Edged Sword""",NBC,Comedy
+2011,Laura Linney,Cathy Jamison,The Big C,"""Pilot""",Showtime,Comedy
+2011,Martha Plimpton,Virginia Chance,Raising Hope,"""Say Cheese""",Fox,Comedy
+2011,Amy Poehler,Leslie Knope,Parks and Recreation,"""Flu Season""",NBC,Comedy
+2012,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Tears""",HBO,Comedy
+2012,Zooey Deschanel,Jessica Day,New Girl,"""Bad in Bed""",Fox,Comedy
+2012,Lena Dunham,Hannah Horvath,Girls,"""She Did""",HBO,Comedy
+2012,Edie Falco,Jackie Peyton,Nurse Jackie,"""Disneyland Sucks""",Showtime,Comedy
+2012,Tina Fey,Liz Lemon,30 Rock,"""The Tuxedo Begins""",NBC,Comedy
+2012,Melissa McCarthy,Molly Flynn,Mike & Molly,"""The Dress""",CBS,Comedy
+2012,Amy Poehler,Leslie Knope,Parks and Recreation,"""Win, Lose, or Draw""",NBC,Comedy
+2013,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Running""",HBO,Comedy
+2013,Laura Dern,Amy Jellicoe,Enlightened,"""All I Ever Wanted""",HBO,Comedy
+2013,Lena Dunham,Hannah Horvath,Girls,"""Bad Friend""",HBO,Comedy
+2013,Edie Falco,Jackie Peyton,Nurse Jackie,"""Luck of the Drawing""",Showtime,Comedy
+2013,Tina Fey,Liz Lemon,30 Rock,"""Hogcock!"" + ""Last Lunch""",NBC,Comedy
+2013,Amy Poehler,Leslie Knope,Parks and Recreation,"""Emergency Response"" + ""Leslie and Ben""",NBC,Comedy
+2014,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Crate""",HBO,Comedy
+2014,Lena Dunham,Hannah Horvath,Girls,"""Beach House""",HBO,Comedy
+2014,Edie Falco,Jackie Peyton,Nurse Jackie,"""Super Greens""",Showtime,Comedy
+2014,Melissa McCarthy,Molly Flynn,Mike & Molly,"""Mind Over Molly""",CBS,Comedy
+2014,Amy Poehler,Leslie Knope,Parks and Recreation,"""Recall Vote""",NBC,Comedy
+2014,Taylor Schilling,Piper Chapman,Orange Is the New Black,"""The Chickening""",Netflix,Comedy
+2015,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Election Night""",HBO,Comedy
+2015,Edie Falco,Jackie Peyton,Nurse Jackie,"""I Say a Little Prayer""",Showtime,Comedy
+2015,Lisa Kudrow,Valerie Cherish,The Comeback,"""Valerie Is Taken Seriously""",HBO,Comedy
+2015,Amy Poehler,Leslie Knope,Parks and Recreation,"""One Last Ride""",NBC,Comedy
+2015,Amy Schumer,Various characters,Inside Amy Schumer,"""Cool With It""",Comedy Central,Comedy
+2015,Lily Tomlin,Frankie Bergstein,Grace and Frankie,"""The Vows""",Netflix,Comedy
+2016,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Mother""",HBO,Comedy
+2016,Ellie Kemper,Kimmy Schmidt,Unbreakable Kimmy Schmidt,"""Kimmy Goes to a Hotel!""",Netflix,Comedy
+2016,Laurie Metcalf,Dr. Jenna James,Getting On,"""Am I Still Me?""",HBO,Comedy
+2016,Tracee Ellis Ross,Dr. Rainbow Johnson,Black-ish,"""Sink or Swim""",ABC,Comedy
+2016,Amy Schumer,Various characters,Inside Amy Schumer,"""Welcome to the Gun Show""",Comedy Central,Comedy
+2016,Lily Tomlin,Frankie Bergstein,Grace and Frankie,"""The Test""",Netflix,Comedy
+2017,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Groundbreaking""",HBO,Comedy
+2017,Pamela Adlon,Sam Fox,Better Things,"""Future Fever""",FX,Comedy
+2017,Allison Janney,Bonnie Plunkett,Mom,"""Tush Push and Some Radishes""",CBS,Comedy
+2017,Ellie Kemper,Kimmy Schmidt,Unbreakable Kimmy Schmidt,"""Kimmy Goes to College!""",Netflix,Comedy
+2017,Jane Fonda,Grace Hanson,Grace and Frankie,"""The Pot""",Netflix,Comedy
+2017,Tracee Ellis Ross,Dr. Rainbow Johnson,Black-ish,"""Being Bow-racial""",ABC,Comedy
+2017,Lily Tomlin,Frankie Bergstein,Grace and Frankie,"""The Burglary""",Netflix,Comedy
+2018,Rachel Brosnahan,"Miriam ""Midge"" Maisel",The Marvelous Mrs. Maisel,"""Thank You and Good Night""",Amazon,Comedy
+2018,Pamela Adlon,Sam Fox,Better Things,"""Eulogy""",FX,Comedy
+2018,Allison Janney,Bonnie Plunkett,Mom,"""Phone Confetti and a Wee Dingle""",CBS,Comedy
+2018,Issa Rae,Issa Dee,Insecure,"""Hella Great""",HBO,Comedy
+2018,Tracee Ellis Ross,Dr. Rainbow Johnson,Black-ish,"""Elder. Scam.""",ABC,Comedy
+2018,Lily Tomlin,Frankie Bergstein,Grace and Frankie,"""The Home""",Netflix,Comedy
+2019,Phoebe Waller-Bridge,Fleabag,Fleabag,"""Episode 1""",Amazon,Comedy
+2019,Christina Applegate,Jen Harding,Dead to Me,"""I've Gotta Get Away""",Netflix,Comedy
+2019,Rachel Brosnahan,"Miriam ""Midge"" Maisel",The Marvelous Mrs. Maisel,"""Midnight at the Concord""",Amazon,Comedy
+2019,Julia Louis-Dreyfus,Selina Meyer,Veep,"""Veep""",HBO,Comedy
+2019,Natasha Lyonne,Nadia Vulvokov,Russian Doll,"""Nothing in This World Is Easy""",Netflix,Comedy
+2019,Catherine O'Hara,Moira Rose,Schitt's Creek,"""The Crowening""",Pop TV,Comedy
+2020,Catherine O'Hara,Moira Rose,Schitt's Creek,"""The Incident""",Pop TV,Comedy
+2020,Christina Applegate,Jen Harding,Dead to Me,"""It's Not You, It's Me""",Netflix,Comedy
+2020,Rachel Brosnahan,"Miriam ""Midge"" Maisel",The Marvelous Mrs. Maisel,"""A Jewish Girl Walks Into the Apollo...""",Amazon,Comedy
+2020,Linda Cardellini,Judy Hale,Dead to Me,"""If Only You Knew""",Netflix,Comedy
+2020,Issa Rae,Issa Dee,Insecure,"""Lowkey Happy""",HBO,Comedy
+2020,Tracee Ellis Ross,Dr. Rainbow Johnson,Black-ish,"""Kid Life Crisis""",ABC,Comedy
+2021,Jean Smart,Deborah Vance,Hacks,"""1.69 Million""",HBO Max,Comedy
+2021,Aidy Bryant,Annie Easton,Shrill,"""Ranchers""",Hulu,Comedy
+2021,Kaley Cuoco,Cassie Bowden,The Flight Attendant,"""In Case of Emergency""",HBO Max,Comedy
+2021,Allison Janney,Bonnie Plunkett,Mom,"""My Kinda People and the Big To-Do""",CBS,Comedy
+2021,Tracee Ellis Ross,Dr. Rainbow Johnson,Black-ish,"""Babes in Boyland""",ABC,Comedy
+2022,Jean Smart,Deborah Vance,Hacks,"""The Click""",HBO Max,Comedy
+2022,Rachel Brosnahan,"Miriam ""Midge"" Maisel",The Marvelous Mrs. Maisel,"""How Do You Get to Carnegie Hall?""",Prime Video,Comedy
+2022,Quinta Brunson,Janine Teagues,Abbott Elementary,"""Pilot""",ABC,Comedy
+2022,Kaley Cuoco,Cassie Bowden,The Flight Attendant,"""Drowning Women""",HBO Max,Comedy
+2022,Elle Fanning,Catherine the Great,The Great,"""Alone at Last""",Hulu,Comedy
+2022,Issa Rae,Issa Dee,Insecure,"""Reunited, Okay?!""",HBO,Comedy
+2010,Bryan Cranston,Walter White,Breaking Bad,"""Full Measure""",AMC,Drama
+2010,Kyle Chandler,Eric Taylor,Friday Night Lights,"""East of Dillon""",DirecTV,Drama
+2010,Matthew Fox,Jack Shephard,Lost,"""The End""",ABC,Drama
+2010,Michael C. Hall,Dexter Morgan,Dexter,"""The Getaway""",Showtime,Drama
+2010,Jon Hamm,Don Draper,Mad Men,"""The Gypsy and the Hobo""",AMC,Drama
+2010,Hugh Laurie,Gregory House,House,"""Broken""",Fox,Drama
+2011,Kyle Chandler,Eric Taylor,Friday Night Lights,"""Always""",DirecTV,Drama
+2011,Steve Buscemi,Nucky Thompson,Boardwalk Empire,"""A Return to Normalcy""",HBO,Drama
+2011,Michael C. Hall,Dexter Morgan,Dexter,"""Teenage Wasteland""",Showtime,Drama
+2011,Jon Hamm,Don Draper,Mad Men,"""The Suitcase""",AMC,Drama
+2011,Hugh Laurie,Gregory House,House,"""After Hours""",Fox,Drama
+2011,Timothy Olyphant,Raylan Givens,Justified,"""Reckoning""",FX,Drama
+2012,Damian Lewis,Nicholas Brody,Homeland,"""Marine One""",Showtime,Drama
+2012,Steve Buscemi,Nucky Thompson,Boardwalk Empire,"""Two Boats and a Lifeguard""",HBO,Drama
+2012,Hugh Bonneville,Robert Crawley,Downton Abbey,"""Episode Seven""",PBS,Drama
+2012,Bryan Cranston,Walter White,Breaking Bad,"""Crawl Space""",AMC,Drama
+2012,Michael C. Hall,Dexter Morgan,Dexter,"""Nebraska""",Showtime,Drama
+2012,Jon Hamm,Don Draper,Mad Men,"""The Other Woman""",AMC,Drama
+2013,Jeff Daniels,Will McAvoy,The Newsroom,"""We Just Decided To""",HBO,Drama
+2013,Hugh Bonneville,Robert Crawley,Downton Abbey,"""Episode Five""",PBS,Drama
+2013,Bryan Cranston,Walter White,Breaking Bad,"""Say My Name""",AMC,Drama
+2013,Jon Hamm,Don Draper,Mad Men,"""In Care Of""",AMC,Drama
+2013,Damian Lewis,Nicholas Brody,Homeland,"""Q&A""",Showtime,Drama
+2013,Kevin Spacey,Frank Underwood,House of Cards,"""Chapter 1""",Netflix,Drama
+2014,Bryan Cranston,Walter White,Breaking Bad,"""Ozymandias""",AMC,Drama
+2014,Woody Harrelson,Martin Hart,True Detective,"""The Locked Room""",HBO,Drama
+2014,Matthew McConaughey,Rust Cohle,True Detective,"""Form and Void""",HBO,Drama
+2014,Jeff Daniels,Will McAvoy,The Newsroom,"""Election Night, Part II""",HBO,Drama
+2014,Jon Hamm,Don Draper,Mad Men,"""The Strategy""",AMC,Drama
+2014,Kevin Spacey,Frank Underwood,House of Cards,"""Chapter 26""",Netflix,Drama
+2015,Jon Hamm,Don Draper,Mad Men,"""Person to Person""",AMC,Drama
+2015,Kyle Chandler,John Rayburn,Bloodline,"""Part 12""",Netflix,Drama
+2015,Jeff Daniels,Will McAvoy,The Newsroom,"""What Kind of Day Has It Been""",HBO,Drama
+2015,Bob Odenkirk,Jimmy McGill,Better Call Saul,"""Pimento""",AMC,Drama
+2015,Liev Schreiber,Ray Donovan,Ray Donovan,"""Walk This Way""",Showtime,Drama
+2015,Kevin Spacey,Frank Underwood,House of Cards,"""Chapter 32""",Netflix,Drama
+2016,Rami Malek,Elliot Alderson,Mr. Robot,"""eps1.0 hellofriend.mov""",USA,Drama
+2016,Kyle Chandler,John Rayburn,Bloodline,"""Part 23""",Netflix,Drama
+2016,Bob Odenkirk,Jimmy McGill,Better Call Saul,"""Klick""",AMC,Drama
+2016,Liev Schreiber,Ray Donovan,Ray Donovan,"""Exsuscito""",Showtime,Drama
+2016,Kevin Spacey,Frank Underwood,House of Cards,"""Chapter 52""",Netflix,Drama
+2016,Matthew Rhys,Philip Jennings,The Americans,"""The Magic of David Copperfield V: The Statue of Liberty Disappears""",FX,Drama
+2017,Sterling K. Brown,Randall Pearson,This Is Us,"""Memphis""",NBC,Drama
+2017,Milo Ventimiglia,Jack Pearson,This Is Us,"""Moonshadow""",NBC,Drama
+2017,Anthony Hopkins,Dr. Robert Ford,Westworld,"""The Bicameral Mind""",HBO,Drama
+2017,Bob Odenkirk,Jimmy McGill,Better Call Saul,"""Expenses""",AMC,Drama
+2017,Matthew Rhys,Philip Jennings,The Americans,"""Crossbreed""",FX,Drama
+2017,Liev Schreiber,Ray Donovan,Ray Donovan,"""Rattus Rattus""",Showtime,Drama
+2017,Kevin Spacey,Frank Underwood,House of Cards,"""Chapter 53""",Netflix,Drama
+2018,Matthew Rhys,Philip Jennings,The Americans,"""START""",FX,Drama
+2018,Ed Harris,The Man in Black / William,Westworld,"""Vanishing Point""",HBO,Drama
+2018,Jeffrey Wright,Bernard Lowe,Westworld,"""The Passenger""",HBO,Drama
+2018,Sterling K. Brown,Randall Pearson,This Is Us,"""Number Three""",NBC,Drama
+2018,Milo Ventimiglia,Jack Pearson,This Is Us,"""The Car""",NBC,Drama
+2018,Jason Bateman,"Martin ""Marty"" Byrde",Ozark,"""The Toll""",Netflix,Drama
+2019,Billy Porter,Pray Tell,Pose,"""Love Is the Message""",FX,Drama
+2019,Sterling K. Brown,Randall Pearson,This Is Us,"""R & B""",NBC,Drama
+2019,Milo Ventimiglia,Jack Pearson,This Is Us,"""Sometimes""",NBC,Drama
+2019,Kit Harington,Jon Snow,Game of Thrones,"""The Iron Throne""",HBO,Drama
+2019,Bob Odenkirk,Jimmy McGill,Better Call Saul,"""Winner""",AMC,Drama
+2019,Jason Bateman,"Martin ""Marty"" Byrde",Ozark,"""Reparations""",Netflix,Drama
+2020,Jeremy Strong,Kendall Roy,Succession,"""This Is Not for Tears""",HBO,Drama
+2020,Jason Bateman,Marty Byrde,Ozark,"""Su Casa Es Mi Casa""",Netflix,Drama
+2020,Sterling K. Brown,Randall Pearson,This Is Us,"""After the Fire""",NBC,Drama
+2020,Steve Carell,Mitch Kessler,The Morning Show,"""Lonely at the Top""",Apple TV+,Drama
+2020,Brian Cox,Logan Roy,Succession,"""Hunting""",HBO,Drama
+2020,Billy Porter,Pray Tell,Pose,"""Love's in Need of Love Today""",FX,Drama
+2021,Josh O'Connor,"Charles, Prince of Wales",The Crown,"""Terra Nullius""",Netflix,Drama
+2021,Sterling K. Brown,Randall Pearson,This Is Us,"""Forty: Part 2""",NBC,Drama
+2021,Jonathan Majors,Atticus Freeman,Lovecraft Country,"""Sundown""",HBO,Drama
+2021,Matthew Rhys,Perry Mason,Perry Mason,"""Chapter 8""",HBO,Drama
+2021,Regé-Jean Page,Simon Bassett,Bridgerton,"""Art of the Swoon""",Netflix,Drama
+2021,Billy Porter,Pray Tell,Pose,"""Take Me To Church""",FX,Drama
+2022,Lee Jung-jae,Seong Gi-hun,Squid Game,"""Gganbu""",Netflix,Drama
+2022,Jason Bateman,Marty Byrde,Ozark,"""Pound of Flesh and Still Kickin’""",Netflix,Drama
+2022,Brian Cox,Logan Roy,Succession,"""All the Bells Say""",HBO,Drama
+2022,Bob Odenkirk,Jimmy McGill / Saul Goodman,Better Call Saul,"""Plan and Execution""",AMC,Drama
+2022,Adam Scott,Mark Scout,Severance,"""Good News About Hell""",Apple TV+,Drama
+2022,Jeremy Strong,Kendall Roy,Succession,"""Too Much Birthday""",HBO,Drama
+2010,Kyra Sedgwick,Brenda Leigh Johnson,The Closer,"""Maternal Instincts""",TNT,Drama
+2010,Connie Britton,Tami Taylor,Friday Night Lights,"""After the Fall""",DirecTV,Drama
+2010,Glenn Close,Patty Hewes,Damages,"""Your Secrets Are Safe""",FX,Drama
+2010,Mariska Hargitay,Olivia Benson,Law & Order: Special Victims Unit,"""Perverted""",NBC,Drama
+2010,January Jones,Betty Draper,Mad Men,"""The Gypsy and the Hobo""",AMC,Drama
+2010,Julianna Margulies,Alicia Florrick,The Good Wife,"""Threesome""",CBS,Drama
+2011,Julianna Margulies,Alicia Florrick,The Good Wife,"""In Sickness""",CBS,Drama
+2011,Kathy Bates,Harriet Korn,Harry's Law,"""Innocent Man""",NBC,Drama
+2011,Connie Britton,Tami Taylor,Friday Night Lights,"""Always""",DirecTV,Drama
+2011,Mireille Enos,Sarah Linden,The Killing,"""Missing""",AMC,Drama
+2011,Mariska Hargitay,Olivia Benson,Law & Order: Special Victims Unit,"""Rescue""",NBC,Drama
+2011,Elisabeth Moss,Peggy Olson,Mad Men,"""The Suitcase""",AMC,Drama
+2012,Claire Danes,Carrie Mathison,Homeland,"""The Vest""",Showtime,Drama
+2012,Kathy Bates,Harriet Korn,Harry's Law,"""Onward and Upward""",NBC,Drama
+2012,Glenn Close,Patty Hewes,Damages,"""I've Done Way Too Much for This Girl""",DirecTV,Drama
+2012,Michelle Dockery,Lady Mary Crawley,Downton Abbey,"""Episode Seven""",PBS,Drama
+2012,Julianna Margulies,Alicia Florrick,The Good Wife,"""Parenting Made Easy""",CBS,Drama
+2012,Elisabeth Moss,Peggy Olson,Mad Men,"""The Other Woman""",AMC,Drama
+2013,Claire Danes,Carrie Mathison,Homeland,"""Q&A""",Showtime,Drama
+2013,Connie Britton,Rayna Jaymes,Nashville,"""Pilot""",ABC,Drama
+2013,Michelle Dockery,Lady Mary Crawley,Downton Abbey,"""Episode One""",PBS,Drama
+2013,Vera Farmiga,Norma Bates,Bates Motel,"""First You Dream, Then You Die""",A&E,Drama
+2013,Elisabeth Moss,Peggy Olson,Mad Men,"""The Better Half""",AMC,Drama
+2013,Kerry Washington,Olivia Pope,Scandal,"""Happy Birthday, Mr. President""",ABC,Drama
+2013,Robin Wright,Claire Underwood,House of Cards,"""Chapter 10""",Netflix,Drama
+2014,Julianna Margulies,Alicia Florrick,The Good Wife,"""The Last Call""",CBS,Drama
+2014,Lizzy Caplan,Virginia E. Johnson,Masters of Sex,"""Pilot""",Showtime,Drama
+2014,Claire Danes,Carrie Mathison,Homeland,"""The Star""",Showtime,Drama
+2014,Michelle Dockery,Lady Mary Crawley,Downton Abbey,"""Episode One""",PBS,Drama
+2014,Kerry Washington,Olivia Pope,Scandal,"""The Fluffer""",ABC,Drama
+2014,Robin Wright,Claire Underwood,House of Cards,"""Chapter 26""",Netflix,Drama
+2015,Viola Davis,Annalise Keating,How to Get Away with Murder,"""Freakin' Whack-a-Mole""",ABC,Drama
+2015,Claire Danes,Carrie Mathison,Homeland,"""From A to B and Back Again""",Showtime,Drama
+2015,Taraji P. Henson,Cookie Lyon,Empire,"""Pilot""",Fox,Drama
+2015,Tatiana Maslany,Various characters,Orphan Black,"""Certain Agony of the Battlefield""",BBC America,Drama
+2015,Elisabeth Moss,Peggy Olson,Mad Men,"""Person to Person""",AMC,Drama
+2015,Robin Wright,Claire Underwood,House of Cards,"""Chapter 32""",Netflix,Drama
+2016,Tatiana Maslany,Various characters,Orphan Black,"""The Antisocialism of Sex""",BBC America,Drama
+2016,Claire Danes,Carrie Mathison,Homeland,"""Super Powers""",Showtime,Drama
+2016,Viola Davis,Annalise Keating,How to Get Away with Murder,"""There's My Baby""",ABC,Drama
+2016,Taraji P. Henson,Cookie Lyon,Empire,"""Rise by Sin""",Fox,Drama
+2016,Keri Russell,Elizabeth Jennings,The Americans,"""The Magic of David Copperfield V: The Statue of Liberty Disappears""",FX,Drama
+2016,Robin Wright,Claire Underwood,House of Cards,"""Chapter 49""",Netflix,Drama
+2017,Elisabeth Moss,June Osborne / Offred,The Handmaid's Tale,"""Night""",Hulu,Drama
+2017,Viola Davis,Annalise Keating,How to Get Away with Murder,"""Wes""",ABC,Drama
+2017,Claire Foy,Queen Elizabeth II,The Crown,"""Assassins""",Netflix,Drama
+2017,Keri Russell,Elizabeth Jennings,The Americans,"""Dyatkovo""",FX,Drama
+2017,Evan Rachel Wood,Dolores Abernathy,Westworld,"""The Bicameral Mind""",HBO,Drama
+2017,Robin Wright,Claire Underwood,House of Cards,"""Chapter 65""",Netflix,Drama
+2018,Claire Foy,Queen Elizabeth II,The Crown,"""Dear Mrs. Kennedy""",Netflix,Drama
+2018,Tatiana Maslany,Various characters,Orphan Black,"""To Right the Wrongs of Many""",BBC America,Drama
+2018,Elisabeth Moss,June Osborne / Offred,The Handmaid's Tale,"""The Last Ceremony""",Hulu,Drama
+2018,Sandra Oh,Eve Polastri,Killing Eve,"""I Have a Thing About Bathrooms""",BBC America,Drama
+2018,Keri Russell,Elizabeth Jennings,The Americans,"""The Summit""",FX,Drama
+2018,Evan Rachel Wood,Dolores Abernathy,Westworld,"""Reunion""",HBO,Drama
+2019,Jodie Comer,Villanelle,Killing Eve,"""I Hope You Like Missionary!""",BBC America,Drama
+2019,Sandra Oh,Eve Polastri,Killing Eve,"""You're Mine""",BBC America,Drama
+2019,Emilia Clarke,Daenerys Targaryen,Game of Thrones,"""The Last of the Starks""",HBO,Drama
+2019,Viola Davis,Annalise Keating,How to Get Away with Murder,"""He Betrayed Us Both""",ABC,Drama
+2019,Laura Linney,Wendy Byrde,Ozark,"""One Way Out""",Netflix,Drama
+2019,Mandy Moore,Rebecca Pearson,This Is Us,"""The Graduates""",NBC,Drama
+2019,Robin Wright,Claire Underwood,House of Cards,"""Chapter 70""",Netflix,Drama
+2020,Zendaya,"Ruby ""Rue"" Bennett",Euphoria,"""Made You Look""",HBO,Drama
+2020,Jodie Comer,Villanelle,Killing Eve,"""Are You From Pinner?""",BBC America,Drama
+2020,Sandra Oh,Eve Polastri,Killing Eve,"""Are You Leading or Am I?""",BBC America,Drama
+2020,Jennifer Aniston,Alex Levy,The Morning Show,"""In the Dark Night of the Soul It's Always 3:30 in the Morning""",Apple TV+,Drama
+2020,Olivia Colman,Queen Elizabeth II,The Crown,"""Cri de Coeur""",Netflix,Drama
+2020,Laura Linney,Wendy Byrde,Ozark,"""Fire Pink""",Netflix,Drama
+2021,Olivia Colman,Queen Elizabeth II,The Crown,"""48:1""",Netflix,Drama
+2021,Emma Corrin,"Diana, Princess of Wales",The Crown,"""Fairytale""",Netflix,Drama
+2021,Uzo Aduba,Dr. Brooke Taylor,In Treatment,"""Brooke — Week 5""",HBO,Drama
+2021,Elisabeth Moss,June Osborne,The Handmaid's Tale,"""Home""",Hulu,Drama
+2021,Michaela Jaé Rodriguez,Blanca Rodriguez,Pose,"""Series Finale""",FX,Drama
+2021,Jurnee Smollett,"Letitia ""Leti"" Lewis",Lovecraft Country,"""Holy Ghost""",HBO,Drama
+2022,Zendaya,"Ruby ""Rue"" Bennett",Euphoria,"""Stand Still Like the Hummingbird""",HBO,Drama
+2022,Jodie Comer,Villanelle,Killing Eve,"""Don't Get Eaten""",BBC America,Drama
+2022,Sandra Oh,Eve Polastri,Killing Eve,"""Making Dead Things Look Nice""",BBC America,Drama
+2022,Laura Linney,Wendy Byrde,Ozark,"""Pound of Flesh and Still Kickin'""",Netflix,Drama
+2022,Melanie Lynskey,Shauna Sadecki,Yellowjackets,"""Doomcoming""",Showtime,Drama
+2022,Reese Witherspoon,Bradley Jackson,The Morning Show,"""Confirmations""",Apple TV+,Drama

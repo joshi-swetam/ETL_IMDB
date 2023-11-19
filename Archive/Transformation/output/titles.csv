@@ -1,0 +1,394 @@
+title_id,Titles
+1,Breaking Bad
+2,Game of Thrones
+3,Chernobyl
+4,Band of Brothers
+5,Sherlock
+6,The Wire
+7,Avatar: The Last Airbender
+8,Friends
+9,The Sopranos
+10,Rick and Morty
+11,The Office
+12,Attack on Titan
+13,Stranger Things
+14,True Detective
+15,Better Call Saul
+16,Death Note
+17,Peaky Blinders
+18,Black Mirror
+19,Dexter
+20,Fargo
+21,Firefly
+22,Seinfeld
+23,Narcos
+24,Fullmetal Alchemist: Brotherhood
+25,The Boys
+26,The Mandalorian
+27,Arcane
+28,The Last of Us
+29,House of Cards
+30,House
+31,The Simpsons
+32,Dark
+33,South Park
+34,The Queen's Gambit
+35,Ted Lasso
+36,Daredevil
+37,Arrested Development
+38,It's Always Sunny in Philadelphia
+39,Vikings
+40,Westworld
+41,Twin Peaks
+42,The Twilight Zone
+43,Hunter x Hunter
+44,Modern Family
+45,Mad Men
+46,Batman: The Animated Series
+47,Succession
+48,One Piece
+49,Sons of Anarchy
+50,Mindhunter
+51,BoJack Horseman
+52,Mr. Robot
+53,When They See Us
+54,Cowboy Bebop
+55,Downton Abbey
+56,How I Met Your Mother
+57,Parks and Recreation
+58,Gravity Falls
+59,The Haunting of Hill House
+60,Freaks and Geeks
+61,Shameless
+62,Supernatural
+63,Ozark
+64,The Big Bang Theory
+65,Dragon Ball Z
+66,Rome
+67,The X-Files
+68,Suits
+69,Curb Your Enthusiasm
+70,Yellowstone
+71,Doctor Who
+72,The Crown
+73,Lost
+74,Fleabag
+75,Battlestar Galactica
+76,One Punch Man
+77,Prison Break
+78,The Walking Dead
+79,Community
+80,Invincible
+81,Severance
+82,This Is Us
+83,Hannibal
+84,Boardwalk Empire
+85,Spartacus
+86,The Punisher
+87,Brooklyn Nine-Nine
+88,Futurama
+89,Six Feet Under
+90,Naruto: Shippuden
+91,The West Wing
+92,Star Trek: The Next Generation
+93,Fawlty Towers
+94,The Marvelous Mrs. Maisel
+95,Archer
+96,Big Little Lies
+97,Demon Slayer: Kimetsu no Yaiba
+98,Only Fools and Horses
+99,Money Heist
+100,Pride and Prejudice
+101,Scrubs
+102,Cobra Kai
+103,Homeland
+104,Fringe
+105,The Handmaid's Tale
+106,Person of Interest
+107,Oz
+108,Entourage
+109,Sex Education
+110,The Expanse
+111,1883
+112,The IT Crowd
+113,Persona
+114,The Newsroom
+115,Silicon Valley
+116,The Witcher
+117,The Last Kingdom
+118,Steins;Gate
+119,Deadwood
+120,Family Guy
+121,24
+122,The Shield
+123,Spartacus: Gods of the Arena
+124,Loki
+125,Justified
+126,Over the Garden Wall
+127,"Love, Death & Robots"
+128,Adventure Time
+129,Schitt's Creek
+130,Mare of Easttown
+131,Outlander
+132,Code Geass
+133,The Night Of
+134,Blackadder Goes Forth
+135,Friday Night Lights
+136,Euphoria
+137,Luther
+138,What We Do in the Shadows
+139,After Life
+140,Line of Duty
+141,Squid Game
+142,Peep Show
+143,Vinland Saga
+144,Californication
+145,Atlanta
+146,Lucifer
+147,Andor
+148,Anne with an E
+149,Wednesday
+150,Orange Is the New Black
+151,The Legend of Korra
+152,The Bridge
+153,Dekalog
+154,Broadchurch
+155,Sacred Games
+156,Buffy the Vampire Slayer
+157,Naruto
+158,Banshee
+159,Unbelievable
+160,Dopesick
+161,Taboo
+162,The Originals
+163,Star Wars: The Clone Wars
+164,Louie
+165,The Americans
+166,Bleach: Thousand-Year Blood War
+167,Psych
+168,American Horror Story
+169,Bosch
+170,Neon Genesis Evangelion
+171,Billions
+172,The Good Place
+173,American Crime Story
+174,Stargate SG-1
+175,30 Rock
+176,Fullmetal Alchemist
+177,Berserk
+178,Spaced
+179,Jujutsu Kaisen
+180,Barry
+181,Father Ted
+182,The Inbetweeners
+183,Peacemaker
+184,Gomorrah
+185,The Bear
+186,Sense8
+187,The Pacific
+188,The Killing
+189,Criminal Minds
+190,Narcos: Mexico
+191,Maid
+192,Star Trek
+193,Samurai Champloo
+194,Das Boot
+195,Orphan Black
+196,The Blacklist
+197,Justice League
+198,Chuck
+199,The Mentalist
+200,Poirot
+201,The Leftovers
+202,The Good Wife
+203,Black Books
+204,Trailer Park Boys
+205,That '70s Show
+206,Coupling
+207,WandaVision
+208,Malcolm in the Middle
+209,White Collar
+210,Gilmore Girls
+211,Ash vs Evil Dead
+212,Veronica Mars
+213,Normal People
+214,Monster
+215,Generation Kill
+216,Samurai Jack
+217,Penny Dreadful
+218,Watchmen
+219,It's a Sin
+220,Young Justice
+221,Castle
+222,Happy Valley
+223,Crash Landing on You
+224,Ray Donovan
+225,The Offer
+226,How to Get Away with Murder
+227,Erased
+228,The Knick
+229,The End of the F***ing World
+230,Regular Show
+231,The Morning Show
+232,Derry Girls
+233,Black Sails
+234,Boston Legal
+235,Mob Psycho 100
+236,The Umbrella Academy
+237,Haikyu!!
+238,Misfits
+239,SpongeBob SquarePants
+240,M*A*S*H
+241,True Blood
+242,Reacher
+243,Skam
+244,Veep
+245,Pushing Daisies
+246,Bodyguard
+247,Glee
+248,Monk
+249,Episodes
+250,Two and a Half Men
+251,House of Lies
+252,Derek
+253,Transparent
+254,Black-ish
+255,The Last Man on Earth
+256,Master of None
+257,Baskets
+258,Black Monday
+259,The Kominsky Method
+260,Ramy
+261,Kenan
+262,The Great
+263,Only Murders in the Building
+264,Nurse Jackie
+265,United States of Tara
+266,The New Adventures of Old Christine
+267,Mike & Molly
+268,The Big C
+269,Raising Hope
+270,New Girl
+271,Girls
+272,Enlightened
+273,The Comeback
+274,Inside Amy Schumer
+275,Grace and Frankie
+276,Unbreakable Kimmy Schmidt
+277,Getting On
+278,Better Things
+279,Mom
+280,Insecure
+281,Dead to Me
+282,Russian Doll
+283,Hacks
+284,Shrill
+285,The Flight Attendant
+286,Abbott Elementary
+287,Bloodline
+288,Pose
+289,Lovecraft Country
+290,Perry Mason
+291,Bridgerton
+292,The Closer
+293,Damages
+294,Law & Order: Special Victims Unit
+295,Harry's Law
+296,Nashville
+297,Bates Motel
+298,Scandal
+299,Masters of Sex
+300,Empire
+301,Killing Eve
+302,In Treatment
+303,Yellowjackets
+304,Saturday Night Live
+305,Portlandia
+306,Key & Peele
+307,Hot in Cleveland
+308,Desperate Housewives
+309,GLOW
+310,Roseanne
+311,Will & Grace
+312,Men of a Certain Age
+313,Burn Notice
+314,The Affair
+315,UnREAL
+316,Modern Family 
+317,Curb Your Enthusiasm 
+318,Glee 
+319,Nurse Jackie 
+320,The Office 
+321,30 Rock 
+322,The Big Bang Theory 
+323,Parks and Recreation 
+324,Girls 
+325,Veep 
+326,Louie 
+327,Orange Is the New Black 
+328,Silicon Valley 
+329,Transparent 
+330,Unbreakable Kimmy Schmidt 
+331,Black-ish 
+332,Master of None 
+333,Atlanta 
+334,The Marvelous Mrs. Maisel 
+335,Barry 
+336,GLOW 
+337,Fleabag 
+338,The Good Place 
+339,Russian Doll 
+340,Schitt's Creek 
+341,Dead to Me 
+342,Insecure 
+343,The Kominsky Method 
+344,What We Do in the Shadows 
+345,Ted Lasso 
+346,Cobra Kai 
+347,Emily in Paris 
+348,The Flight Attendant 
+349,Hacks 
+350,PEN15 
+351,Abbott Elementary 
+352,Only Murders in the Building 
+353,Mad Men 
+354,Breaking Bad 
+355,Dexter 
+356,The Good Wife 
+357,Lost 
+358,True Blood 
+359,Boardwalk Empire 
+360,Friday Night Lights 
+361,Game of Thrones 
+362,Homeland 
+363,Downton Abbey 
+364,House of Cards 
+365,True Detective 
+366,Better Call Saul 
+367,The Americans 
+368,Mr. Robot 
+369,The Handmaid's Tale 
+370,The Crown 
+371,Stranger Things 
+372,This Is Us 
+373,Westworld 
+374,Bodyguard 
+375,Killing Eve 
+376,Ozark 
+377,Pose 
+378,Succession 
+379,The Mandalorian 
+380,The Boys 
+381,Bridgerton 
+382,Lovecraft Country 
+383,Euphoria 
+384,Severance 
+385,Squid Game 
+386,Yellowjackets 
+387,Brown This Is Us
+388,Connor The Crown
+389,Dreyfus Veep
+390,Mrs. Maisel
+391,Bridge Fleabag
+392,Smart Hacks
+393,Colman

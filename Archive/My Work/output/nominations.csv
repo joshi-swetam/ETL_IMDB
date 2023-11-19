@@ -1,0 +1,844 @@
+nomination_id,award_id,year,title_id,actor_id,network_id,category_id,role,episode,producers,winner
+1,1,2010,316,0,10,10,,,"Steven Levitan and Christopher Lloyd, executive producers; Jason Winer, Danny Zuker, Dan O'Shannon, Bill Wrubel, Paul Corrigan and Brad Walsh, co-executive producers; Jeff Morton, producer",True
+2,1,2011,316,0,10,10,,,"Steven Levitan and Christopher Lloyd, executive producers; Jeff Morton, Danny Zuker, Dan O'Shannon, Bill Wrubel, Paul Corrigan, Brad Walsh, Ilana Wernick, Jeffrey Richman and Abraham Higginbotham, co-executive producers",True
+3,1,2012,316,0,10,10,,,"Steven Levitan, Christopher Lloyd, Danny Zuker, Dan O'Shannon, Bill Wrubel, Paul Corrigan and Brad Walsh, executive producers; Jeff Morton, Jeffrey Richman, Abraham Higginbotham and Cindy Chupack, co-executive producers; Chris Smirnoff, producer",True
+4,1,2013,316,0,10,10,,,"Steven Levitan, Christopher Lloyd, Danny Zuker, Dan O'Shannon, Bill Wrubel, Paul Corrigan, Brad Walsh, Jeffrey Richman, Abraham Higginbotham and Jeff Morton, executive producers; Ben Karlin, co-executive producer; Elaine Ko and Chris Smirnoff, producers",True
+5,1,2014,316,0,10,10,,,"Steven Levitan, Christopher Lloyd, Dan O'Shannon, Paul Corrigan, Brad Walsh, Bill Wrubel, Danny Zuker, Jeffrey Richman, Abraham Higginbotham and Jeff Morton, executive producers; Ben Karlin, co-executive producer; Elaine Ko and Megan Ganz, supervising producers; Chris Smirnoff and Sally Young, producers",True
+6,1,2015,316,0,10,10,,,"Christopher Lloyd, Steven Levitan, Paul Corrigan, Brad Walsh, Danny Zuker, Abraham Higginbotham, Jeffrey Richman and Jeff Morton, executive producers; Elaine Ko, Megan Ganz, Vali Chandrasekaran, Stephen Lloyd, Rick Wiener, Kenny Schwartz and Chuck Tatham, co-executive producers; Chris Smirnoff and Sally Young, producers",False
+7,1,2016,316,0,10,10,,,"Steven Levitan, Christopher Lloyd, Paul Corrigan, Brad Walsh, Danny Zuker, Abraham Higginbotham, Jeffrey Richman, Elaine Ko, Stephen Lloyd and Jeff Morton, executive producers; Vali Chandrasekaran, Chuck Tatham, Andy Gordon, Jon Pollack and Vanessa McCarthy, co-executive producers; Chris Smirnoff and Sally Young, producers",False
+8,1,2017,316,0,10,10,,,"Christopher Lloyd, Steven Levitan, Paul Corrigan, Brad Walsh, Danny Zuker, Abraham Higginbotham, Jeffrey Richman, Elaine Ko, Stephen Lloyd, Vali Chandrasekaran, Chuck Tatham and Jeff Morton, executive producers; Andy Gordon and Jon Pollack, co-executive producers; Sally Young, producer; Christy Stratton, consulting producer",False
+9,1,2016,331,0,10,10,,,"Kenya Barris, Jonathan Groff, Anthony Anderson, E. Brian Dobbins, Laurence Fishburne and Helen Sugland, executive producers; Gail Lerner, Vijal Patel, Corey Nickerson and Courtney Lilly, co-executive producers; Lindsey Shockley, Peter Saji, Jenifer Rice-Genzuk Henry and Hale Rothstein, supervising producers; Michael Petok, produced by",False
+10,1,2017,331,0,10,10,,,"Jonathan Groff, Kenya Barris, Anthony Anderson, Laurence Fishburne, Helen Sugland, E. Brian Dobbins and Corey Nickerson, executive producers; Gail Lerner, Courtney Lilly, Jenifer Rice-Genzuk Henry, Hale Rothstein, Kenny Smith, Laura Gutin Peterson, Vijal Patel, Emily Halpern and Sarah Haskins, co-executive producers; Lindsey Shockley and Peter Saji, supervising producers; Michael Petok, produced by",False
+11,1,2018,331,0,10,10,,,"Kenya Barris, Anthony Anderson, Laurence Fishburne, Helen Sugland, E. Brian Dobbins, Jonathan Groff, Corey Nickerson and Stacy Traub, executive producers; Gail Lerner, Courtney Lilly, Jenifer Rice-Genzuk Henry, Laura Gutin-Peterson, Lindsey Shockley, Peter Saji and Sam Laybourne, co-executive producers; Christian Lander, supervising producer; Michael Petok, produced by",False
+12,1,2021,331,0,10,10,,,"Kenya Barris, Anthony Anderson, Laurence Fishburne, Helen Sugland, E. Brian Dobbins, Michael Petok, Courtney Lilly, and Laura Gutin Peterson, executive producers; Christian Lander, Lisa Muse Bryant, Robb Chavis, and Eric Horsted, co-executive producers; Steven White and Marquita J. Robinson, supervising producers; Tracee Ellis Ross, Jamie Nelsen, and Tom Ragazzo, producers; Heidi G. McGowen, produced by",False
+13,1,2022,351,0,10,10,,,"Quinta Brunson, Justin Halpern, Patrick Schumacker and Randall Einhorn, executive producers; Brian Rubenstein, co-executive producer; Scott Sites and Jordan Temple, producers",False
+14,1,2010,317,0,3,10,,,"Larry David, Jeff Garlin, Gavin Polone, Alec Berg, David Mandel, Jeff Schaffer, Tim Gibbons and Erin O'Malley, executive producers",False
+15,1,2012,317,0,3,10,,,"Larry David, Jeff Garlin, Gavin Polone, Alec Berg, David Mandel, Jeff Schaffer, Larry Charles, Tim Gibbons and Erin O'Malley, executive producers; Laura Streicher, producer",False
+16,1,2018,317,0,3,10,,,"Larry David, Jeff Garlin and Jeff Schaffer, executive producers; Justin Hurwitz, supervising producer; Jon Hayman and Laura Streicher, producers; Mychelle Deschamps, produced by",False
+17,1,2020,317,0,3,10,,,"Larry David, Jeff Garlin, Jeff Schaffer and Gavin Polone, executive producers; Laura Streicher, producer; Mychelle Deschamps, produced by",False
+18,1,2022,317,0,3,10,,,"Larry David, Jeff Garlin and Jeff Schaffer, executive producers; Laura Streicher, co-executive producer; Jennifer Corey, produced by",False
+19,1,2012,324,0,3,10,,,"Lena Dunham, Judd Apatow and Jenni Konner, executive producers; Ilene S. Landress and Bruce Eric Kaplan, co-executive producers",False
+20,1,2013,324,0,3,10,,,"Lena Dunham, Judd Apatow and Jenni Konner, executive producers; Ilene S. Landress and Bruce Eric Kaplan, co-executive producers",False
+21,1,2012,325,0,3,10,,,"Armando Iannucci, Christopher Godsick and Frank Rich, executive producers; Simon Blackwell and Tony Roche, co-executive producers; Julia Louis-Dreyfus, producer; Stephanie Laing, produced by",False
+22,1,2013,325,0,3,10,,,"Armando Iannucci, Christopher Godsick and Frank Rich, executive producers; Simon Blackwell and Tony Roche, co-executive producers; Julia Louis-Dreyfus and Stephanie Laing, producers",False
+23,1,2014,325,0,3,10,,,"Armando Iannucci, Christopher Godsick and Frank Rich, executive producers; Simon Blackwell and Tony Roche, co-executive producers; Chris Addison, Roger Drew, Sean Gray, Ian Martin and Will Smith, supervising producers; Julia Louis-Dreyfus, producer; Stephanie Laing, produced by",False
+24,1,2015,325,0,3,10,,,"Armando Iannucci, Christopher Godsick, Frank Rich, Chris Addison, Simon Blackwell, Tony Roche, Julia Louis-Dreyfus and Stephanie Laing, executive producers; Kevin Cecil, Roger Drew, Sean Gray, Ian Martin, Georgia Pritchett, David Quantick, Andy Riley and Will Smith, supervising producers; Bill Hill, produced by",True
+25,1,2016,325,0,3,10,,,"David Mandel, Frank Rich, Julia Louis-Dreyfus, Lew Morton and Christopher Godsick, executive producers; Morgan Sackett, Sean Gray, Peter Huyck, Alex Gregory, Jim Margolis, Georgia Pritchett and Will Smith, co-executive producers; Chris Addison and Rachel Axler, supervising producers; David Hyman, produced by; Erik Kenward, Billy Kimball and Steve Koren, consulting producers",True
+26,1,2017,325,0,3,10,,,"David Mandel, Frank Rich, Julia Louis-Dreyfus, Lew Morton and Morgan Sackett, executive producers; Peter Huyck, Alex Gregory, Georgia Pritchett, Jennifer Crittenden, Gabrielle Allan, Ian Maxtone-Graham, Steve Hely, Ted Cohen and David Hyman, co-executive producers; Rachel Axler and Billy Kimball, supervising producers; Dale Stern, producer; Erik Kenward and Dan Mintz, consulting producers",True
+27,1,2019,325,0,3,10,,,"David Mandel, Frank Rich, Julia Louis-Dreyfus, Lew Morton, Morgan Sackett, Peter Huyck and Alex Gregory, executive producers; Jennifer Crittenden, Gabrielle Allan, Billy Kimball, Rachel Axler, Ted Cohen, Ian Maxtone-Graham, Dan O'Keefe, Steve Hely and David Hyman, co-executive producers; Georgia Pritchett, supervising producer; Doug Smith, producer; Erik Kenward and Dan Mintz, consulting producers",False
+28,1,2014,328,0,3,10,,,"Mike Judge, Alec Berg, John Altschuler, Dave Krinsky, Michael Rotenberg and Tom Lassally, executive producers; Jim Kleverweis, produced by",False
+29,1,2015,328,0,3,10,,,"Mike Judge, Alec Berg, John Altschuler, Dave Krinsky, Michael Rotenberg and Tom Lassally, executive producers; Dan O'Keefe and Clay Tarver, co-executive producers; Sonny Lee and Ron Weiner, supervising producers; Carrie Kemper, producer; Jim Kleverweis, produced by",False
+30,1,2016,328,0,3,10,,,"Mike Judge, Alec Berg, Michael Rotenberg and Tom Lassally, executive producers; Clay Tarver, Dan O'Keefe, Ron Weiner, John Levenstein and Jim Kleverweis, co-executive producers; Carrie Kemper, supervising producer; Adam Countee, producer",False
+31,1,2017,328,0,3,10,,,"Mike Judge, Alec Berg, Michael Rotenberg and Tom Lassally, executive producers; Clay Tarver, Dan O'Keefe, Chris Provenzano, Graham Wagner, Jamie Babbit and Jim Kleverweis, co-executive producers; Carrie Kemper, Adam Countee and Aaron Zelman, supervising producers",False
+32,1,2018,328,0,3,10,,,"Mike Judge, Alec Berg, Clay Tarver, Jim Kleverweis and Jamie Babbit, executive producers; Anthony King, Graham Wagner and Ron Weiner, co-executive producers",False
+33,1,2018,335,0,3,10,,,"Alec Berg and Bill Hader, executive producers; Emily Heller, producer; Aida Rodgers, produced by; Elizabeth Sarnoff, consulting producer",False
+34,1,2019,335,0,3,10,,,"Alec Berg and Bill Hader, executive producers; Aida Rodgers, co-executive producer; Emily Heller, supervising producer; Julie Camino and Jason Kim, producers; Elizabeth Sarnoff, consulting producer",False
+35,1,2022,335,0,3,10,,,"Alec Berg, Bill Hader, Aida Rodgers and Liz Sarnoff, executive producers; Emily Heller and Jason Kim, supervising producers; Duffy Boudreau, producer; Julie Camino, produced by",False
+36,1,2020,342,0,3,10,,,"Issa Rae, Prentice Penny, Melina Matsoukas, Dave Becky, Jonathan Berry, Amy Aniobi and Jim Kleverweis, executive producers; Phil Augusta Jackson and Laura Kittrell, co-executive producers; Deniese Davis and Natasha Rothwell, supervising producers",False
+37,1,2010,318,0,4,10,,,"Ryan Murphy, Brad Falchuk and Dante Di Loreto, executive producers; Ian Brennan, co-executive producer; Bradley Buecker, supervising producer; Alexis Martin Woodall, producer; Kenneth Silverstein, produced by",False
+38,1,2011,318,0,4,10,,,"Ryan Murphy, Brad Falchuk, Dante Di Loreto and Ian Brennan, executive producers; Bradley Buecker, supervising producer; Alexis Martin Woodall, Kenneth Silverstein and Michael Novick, producers",False
+39,1,2010,319,0,7,10,,,"Linda Wallem, Liz Brixius, John Melfi, Caryn Mandabach, Richie Jackson, Christine Zander and Mark Hudis, executive producers; Rick Cleveland, co-executive producer; Bari Halle, produced by",False
+40,1,2010,320,0,2,10,,,"Greg Daniels, Ben Silverman, Ricky Gervais, Stephen Merchant, Howard Klein and Paul Lieberstein, executive producers; Mindy Kaling, Lee Eisenberg, B. J. Novak, Aaron Shure and Teri Weinberg, co-executive producers; Daniel Chun, supervising producer; Steve Carell, Justin Spitzer, Charlie Grandy, Warren Lieberstein and Halsted Sullivan, producers; Randy Cordray, produced by",False
+41,1,2011,320,0,2,10,,,"Ben Silverman, Greg Daniels, Ricky Gervais, Stephen Merchant, Howard Klein and Paul Lieberstein, executive producers; B. J. Novak, executive producer/co-executive producer; Teri Weinberg, Mindy Kaling, Aaron Shure, Daniel Chun and Peter Ocko, co-executive producers; Justin Spitzer and Charlie Grandy, supervising producers; Steve Carell, Warren Lieberstein, Halsted Sullivan and Steve Hely, producers; Randy Cordray, produced by",False
+42,1,2010,321,0,2,10,,,"Lorne Michaels, Tina Fey, Marci Klein, David Miner and Robert Carlock, executive producers; John Riggi and Ron Weiner, co-executive producers",False
+43,1,2011,321,0,2,10,,,"Lorne Michaels, Tina Fey, Robert Carlock, Marci Klein, David Miner, Jeff Richmond and John Riggi, executive producers; Ron Weiner, Jack Burditt and Matt Hubbard, co-executive producers; Alec Baldwin, Kay Cannon, Vali Chandrasekaran, Don Scardino, Josh Siegal, Dylan Morgan and Irene Burns, producers; Jerry Kupfer, produced by",False
+44,1,2012,321,0,2,10,,,"Lorne Michaels, Tina Fey, Robert Carlock, Marci Klein, David Miner, Jeff Richmond and John Riggi, executive producers; Ron Weiner and Matt Hubbard, co-executive producers; Kay Cannon, Vali Chandrasekaran, Josh Siegal, Dylan Morgan and Luke Del Tredici, supervising producers; Jerry Kupfer, Alec Baldwin and Irene Burns, producers",False
+45,1,2013,321,0,2,10,,,"Tina Fey, Robert Carlock, Marci Klein, David Miner, Jeff Richmond, Jack Burditt and Lorne Michaels, executive producers; Matt Hubbard, Josh Siegal, Dylan Morgan and Luke Del Tredici, co-executive producers; Alec Baldwin, Colleen McGuinness, Tracey Wigfield and Jerry Kupfer, producers",False
+46,1,2011,323,0,2,10,,,"Greg Daniels, Michael Schur, Howard Klein and David Miner, executive producers; Dan Goor, supervising producer; Amy Poehler and Emily Spivey, producers; Morgan Sackett, produced by",False
+47,1,2015,323,0,2,10,,,"Greg Daniels, Michael Schur, Howard Klein, David Miner, Morgan Sackett and Dean Holland, executive producers; Alan Yang, Harris Wittels, Donick Cary, Matt Murray and Aisha Muharrar, co-executive producers; Dave King, David Hyman and Amy Poehler, producers",False
+48,1,2019,338,0,2,10,,,"Michael Schur, David Miner, Morgan Sackett and Drew Goddard, executive producers; Dylan Morgan, Josh Siegal, Joe Mande and Megan Amram, co-executive producers; Jen Statsky, supervising producer; David Hyman, produced by; Matt Murray, consulting producer",False
+49,1,2020,338,0,2,10,,,"Michael Schur, David Miner, Morgan Sackett and Drew Goddard, executive producers; Dylan Morgan, Josh Siegal, Joe Mande, Megan Amram, Jen Statsky and Dave King, co-executive producers; David Hyman, produced by; Matt Murray and Aisha Muharrar, consulting producers",False
+50,1,2011,322,0,1,10,,,"Chuck Lorre, Bill Prady, Steven Molaro and Lee Aronsohn, executive producers; Dave Goetsch and Eric Kaplan, co-executive producers; Jim Reynolds and Peter Chakos, supervising producers; Steve Holland, producer; Faye Oshima Belyeu, produced by",False
+51,1,2012,322,0,1,10,,,"Chuck Lorre, Bill Prady and Steven Molaro, executive producers; Dave Goetsch, Eric Kaplan and Jim Reynolds, co-executive producers; Steve Holland and Peter Chakos, supervising producers; Maria Ferrari, producer; Faye Oshima Belyeu, produced by",False
+52,1,2013,322,0,1,10,,,"Chuck Lorre, Steven Molaro and Bill Prady, executive producers; Dave Goetsch, Eric Kaplan, Jim Reynolds, Steve Holland, Eddie Gorodetsky and Faye Oshima Belyeu, co-executive producers; Peter Chakos and Maria Ferrari, supervising producers",False
+53,1,2014,322,0,1,10,,,"Chuck Lorre, Steven Molaro and Bill Prady, executive producers; Dave Goetsch, Eric Kaplan, Jim Reynolds, Steve Holland, Maria Ferrari and Faye Oshima Belyeu, co-executive producers; Peter Chakos, supervising producer; Kristy Cecil, producer",False
+54,1,2013,326,0,6,10,,,"Louis C.K., M. Blair Breard and Dave Becky, executive producers; Tony Hernandez, supervising producer; Vernon Chatman, producer",False
+55,1,2014,326,0,6,10,,,"Louis C.K., M. Blair Breard and Dave Becky, executive producers; Adam Escott, supervising producer; Pamela Adlon and Vernon Chatman, producers; Steven Wright, consulting producer",False
+56,1,2015,326,0,6,10,,,"Louis C.K., M. Blair Breard and Dave Becky, executive producers; Adam Escott, supervising producer; Pamela Adlon, Vernon Chatman and Steven Wright, producers; John Skidmore, produced by",False
+57,1,2017,333,0,6,10,,,"Donald Glover, Paul Simms and Dianne McGunigle, executive producers; Hiro Murai, producer; Alex Orr, produced by",False
+58,1,2018,333,0,6,10,,,"Donald Glover, Paul Simms, Dianne McGunigle and Stephen Glover, executive producers; Hiro Murai, co-executive producer; Stefani Robinson, producer; Alex Orr, produced by",False
+59,1,2020,344,0,6,10,,,"Jemaine Clement, Taika Waititi, Paul Simms, Scott Rudin, Garrett Basch, Eli Bush and Stefani Robinson, executive producers; Sam Johnson, co-executive producer; Derek S. Rappaport, produced by; Marika Sawyer, consulting producer",False
+60,1,2022,344,0,6,10,,,"Jemaine Clement, Taika Waititi, Paul Simms, Garrett Basch, Eli Bush and Stefani Robinson, executive producers; Sam Johnson, Yana Gorskaya, Kyle Newacheck and Marika Sawyer, co-executive producers; Ingrid Lageder, producer; Derek S. Rappaport, produced by",False
+61,1,2014,327,0,8,10,,,"Jenji Kohan, executive producer; Sara Hess, Michael Trim and Lisa I. Vinnecour, co-executive producers; Gary Lennon, supervising producer; Neri Kyle Tannenbaum, produced by; Mark A. Burley, consulting producer",False
+62,1,2015,330,0,8,10,,,"Jeff Richmond, David Miner, Jack Burditt, Tina Fey and Robert Carlock, executive producers; Allison Silverman and Eric Gurian, co-executive producers; Dan Rubin and Lon Zimmet, supervising producers; Sam Means and Dara Schnapper, producers; Jerry Kupfer, produced by",False
+63,1,2016,330,0,8,10,,,"Robert Carlock, Tina Fey, Jeff Richmond and David Miner, executive producers; Allison Silverman, Josh Siegal, Dylan Morgan and Eric Gurian, co-executive producers; Sam Means, Dan Rubin and Leila Strachan, supervising producers; Dara Schnapper, producer; Jerry Kupfer, produced by",False
+64,1,2017,330,0,8,10,,,"Robert Carlock, Tina Fey, Jeff Richmond and David Miner, executive producers; Sam Means, Dan Rubin, Allison Silverman, Leila Strachan and Eric Gurian, co-executive producers; Meredith Scardino and Dara Schnapper, producers; Jerry Kupfer, produced by",False
+65,1,2018,330,0,8,10,,,"Tina Fey, Robert Carlock, Jeff Richmond, David Miner and Sam Means, executive producers; Dan Rubin, Leila Strachan, Eric Gurian and Meredith Scardino, co-executive producers; Jerry Kupfer, produced by",False
+66,1,2016,332,0,8,10,,,"Aziz Ansari, Alan Yang, Michael Schur, David Miner and Dave Becky, executive producers; Harris Wittels, co-executive producer; Igor Srubshchik, produced by",False
+67,1,2017,332,0,8,10,,,"Aziz Ansari, Alan Yang, Michael Schur, David Miner, Dave Becky and Igor Srubshchik, executive producers; Andy Blitz, co-executive producer; Eric Wareheim, supervising producer",False
+68,1,2018,336,0,8,10,,,"Jenji Kohan, Liz Flahive, Carly Mensch and Tara Herrmann, executive producers; Mark A. Burley, co-executive producer; Nick Jones, supervising producer; Sascha Rothchild, producer; Leanne Moore, produced by",False
+69,1,2019,339,0,8,10,,,"Natasha Lyonne, Leslye Headland, Amy Poehler, Dave Becky, Tony Hernandez, Lilly Burns and Allison Silverman, executive producers; Kate Arend and John Skidmore, producers; Ryan McCormick, produced by",False
+70,1,2020,341,0,8,10,,,"Liz Feldman, Will Ferrell, Adam McKay, Jessica Elbaum, Christina Applegate and Christie Smith, executive producers; Linda Cardellini, Cara DiPaolo, Jessi Klein, Elizabeth Benjamin, Dan Dietz and Joe Hardesty, co-executive producers; Buddy Enright and Denise Pleune, producers",False
+71,1,2020,343,0,8,10,,,"Chuck Lorre, Alan J. Higgins and Michael Douglas, executive producers; Andy Tennant and Beth McCarthy-Miller, producers; Marlis Pujol, produced by",False
+72,1,2021,343,0,8,10,,,"Alan J. Higgins, Michael Douglas, and Chuck Lorre, executive producers; Marlis Pujol, co-executive producer; Andy Tennant, producer",False
+73,1,2021,346,0,8,10,,,"Hayden Schlossberg, Jon Hurwitz, Josh Heald, Caleeb Pinkett, Susan Ekins, James Lassiter, and Will Smith, executive producers; Ralph Macchio and William Zabka, co-executive producers; Luan Thomas, Joe Piarulli, and Michael Jonathan Smith, supervising producers; Stacey Harman and Bob Dearden, producers; Bob Wilson, produced by",False
+74,1,2021,347,0,8,10,,,"Andrew Fleming, Tony Hernandez, Lilly Burns, and Darren Star, executive producers; Alison Brown, co-executive producer; Grant Sloss, supervising producer; Stephen Joel Brown, Shihan Fey, Jake Fuller, Lily Collins, and Raphaël Benoliel, producers",False
+75,1,2015,329,0,9,10,,,"Joey Soloway (as Jill Soloway), executive producer; Andrea Sperling, co-executive producer; Bridget Bedard, supervising producer; Victor Hsu, produced by; Rick Rosenthal and Nisha Ganatra, consulting producers",False
+76,1,2016,329,0,9,10,,,"Joey Soloway (as Jill Soloway) and Andrea Sperling, executive producers; Victor Hsu and Bridget Bedard, co-executive producers; Noah Harpster and Micah Fitzerman-Blue, producers; Rick Rosenthal, consulting producer",False
+77,1,2018,334,0,16,10,,,"Amy Sherman-Palladino and Daniel Palladino, executive producers; Sheila Lawrence, co-executive producer; Dhana Rivera Gilbert, produced by",True
+78,1,2019,334,0,16,10,,,"Amy Sherman-Palladino and Daniel Palladino, executive producers; Dhana Rivera Gilbert, co-executive producer; Sheila Lawrence, producer",False
+79,1,2020,334,0,16,10,,,"Amy Sherman-Palladino and Daniel Palladino, executive producers; Dhana Rivera Gilbert, co-executive producer; Matthew Shapiro, Daniel Goldfarb, Kate Fodor and Sono Patel, producers",False
+80,1,2022,334,0,16,10,,,"Daniel Palladino and Amy Sherman-Palladino, executive producers; Dhana Rivera Gilbert, co-executive producer; Daniel Goldfarb, supervising producer; Kate Fodor, Matthew Shapiro, Sal Carino and Nick Thomason, producers",False
+81,1,2019,337,0,16,10,,,"Phoebe Waller-Bridge, Harry Bradbeer, Lydia Hampson, Harry Williams, Jack Williams and Joe Lewis, executive producers; Sarah Hammond, producer",True
+82,1,2019,340,0,11,10,,,"Eugene Levy, Daniel Levy, David West Read, Andrew Barnsley, Fred Levy and Ben Feigin, executive producers; Michael Short and Rupinder Gill, co-executive producers; Colin Brunton, producer",False
+83,1,2020,340,0,11,10,,,"Eugene Levy, Dan Levy, Andrew Barnsley, Fred Levy, David West Read and Ben Feigin, executive producers; Michael Short and Kurt Smeaton, co-executive producers; Kosta Orfanidis, producer",True
+84,1,2021,345,0,13,10,,,"Bill Lawrence, Jason Sudeikis, Jeff Ingold, and Bill Wrubel, executive producers; Liza Katzer, co-executive producer; Jane Becker, Jamie Lee, and Kip Kroeger, supervising producers; Brendan Hunt, producer; Tina Pawlik, produced by; Joe Kelly, consulting producer",True
+85,1,2022,345,0,13,10,,,"Bill Lawrence, Jason Sudeikis, Brendan Hunt, Joe Kelly, Jeff Ingold and Bill Wrubel, executive producers; Jane Becker, Jamie Lee and Liza Katzer, co-executive producers; Kip Kroeger and Declan Lowney, supervising producers; Leann Bowen and Ashley Nicole Black, producers; Andrew Warren, produced by",True
+86,1,2021,348,0,15,10,,,"Greg Berlanti, Kaley Cuoco, Steve Yockey, Meredith Lavender, Marcie Ulin, and Sarah Schechter, executive producers; Suzanne McCormack and Jess Meyer, co-executive producers; Jennifer Lence and Erika Kennair, producers; Raymond Quinlan, produced by",False
+87,1,2021,349,0,15,10,,,"Jen Statsky, Paul W. Downs, Lucia Aniello, Michael Schur, David Miner, and Morgan Sackett, executive producers; Joanna Calo, Andrew Law, and David Hyman, co-executive producers; Joe Mande and Jessica Chaffin, consulting producers",False
+88,1,2022,349,0,15,10,,,"Jen Statsky, Lucia Aniello, Paul W. Downs, Michael Schur, David Miner and Morgan Sackett, executive producers; Joe Mande, Andrew Law and Aisha Muharrar, co-executive producers; Ashley Glazier and Samantha Riley, producers; Seth Edelstein, produced by; Jessica Chaffin, consulting producer",False
+89,1,2021,350,0,12,10,,,"Maya Erskine, Anna Konkle, Sam Zvibleman, Debbie Liebling, Vera Santamaria, Marc Provissiero, Brooke Pobjoy, Andy Samberg, Jorma Taccone, Akiva Schaffer, Becky Sloviter, Shelley Zimmerman, Brin Lukens, and Jordan Levin, executive producers; Don Dunn and Scott Levine, producers; Jeremy Reitz, produced by",False
+90,1,2022,352,0,12,10,,,"Dan Fogelman, Jess Rosenthal, Jamie Babbit, Steve Martin, Martin Short, Selena Gomez and John Hoffman, executive producers; Kristin Newman and Kirker Butler, co-executive producers; Ben Smith, Matteo Borghese and Rob Turbovsky, supervising producers; Thembi L. Banks, producer; Jane Raab, produced by",False
+91,1,2010,357,0,10,2,,,"Damon Lindelof, J. J. Abrams, Carlton Cuse, Edward Kitsis, Adam Horowitz, Elizabeth Sarnoff, Jack Bender, Bryan Burk, and Jean Higgins, executive producers; Paul Zbyszewski, co-executive producer; Melinda Hsu Taylor and Ra'uf Glasgow, producers",False
+92,1,2010,358,0,3,2,,,"Alan Ball and Gregg Fienberg, executive producers; Brian Buckner and Nancy Oliver, co-executive producers; Alexander Woo, supervising producer; Raelle Tucker and Mark McNair, producers",False
+93,1,2011,359,0,3,2,,,"Terence Winter, Martin Scorsese, Mark Wahlberg, Stephen Levinson and Tim Van Patten, executive producers; Eugene Kelly and Lawrence Konner, co-executive producers; Howard Korder and Margaret Nagle, supervising producers; Rick Yorn and Rudd Simmons, producers",False
+94,1,2012,359,0,3,2,,,"Terence Winter, Martin Scorsese, Mark Wahlberg, Stephen Levinson and Tim Van Patten, executive producers; Eugene Kelly and Howard Korder, co-executive producers; Rick Yorn and Joe Iberti, producers",False
+95,1,2011,361,0,3,2,,,"David Benioff and D. B. Weiss, executive producers; George R. R. Martin, Vince Gerardis, Ralph Vicinanza, Guymon Casady and Carolyn Strauss, co-executive producers; Frank Doelger and Mark Huffam, producers",False
+96,1,2012,361,0,3,2,,,"David Benioff, D. B. Weiss, Frank Doelger and Carolyn Strauss, executive producers; George R. R. Martin, Vanessa Taylor, Alan Taylor, Guymon Casady and Vince Gerardis, co-executive producers; Bernadette Caulfield, producer by",False
+97,1,2013,361,0,3,2,,,"David Benioff, D. B. Weiss, Carolyn Strauss, Frank Doelger and Bernadette Caulfield, executive producers; Guymon Casady, Vince Gerardis, George R. R. Martin and Vanessa Taylor, co-executive producers; Chris Newman and Greg Spence, producers",False
+98,1,2014,361,0,3,2,,,"David Benioff, D. B. Weiss, Carolyn Strauss, Frank Doelger and Bernadette Caulfield, executive producers; Vince Gerardis, Guymon Casady and George R. R. Martin, co-executive producers; Chris Newman and Greg Spence, producers",False
+99,1,2015,361,0,3,2,,,"David Benioff, D. B. Weiss, Carolyn Strauss, Frank Doelger and Bernadette Caulfield, executive producers; Vince Gerardis, Guymon Casady and George R. R. Martin, co-executive producers; Chris Newman, Greg Spence, Lisa McAtackney and Bryan Cogman, producers",True
+100,1,2016,361,0,3,2,,,"David Benioff, D. B. Weiss, Carolyn Strauss, Frank Doelger and Bernadette Caulfield, executive producers; Vince Gerardis, Guymon Casady and George R. R. Martin, co-executive producers; Bryan Cogman, supervising producer; Chris Newman, Greg Spence and Lisa McAtackney, producers",True
+101,1,2018,361,0,3,2,,,"David Benioff, D. B. Weiss, Carolyn Strauss, Frank Doelger and Bernadette Caulfield, executive producers; George R. R. Martin, Guymon Casady, Vince Gerardis and Bryan Cogman, co-executive producers; Chris Newman, Lisa McAtackney and Greg Spence, producers",True
+102,1,2019,361,0,3,2,,,"David Benioff, D. B. Weiss, Carolyn Strauss, Bernadette Caulfield, Frank Doelger, David Nutter and Miguel Sapochnik, executive producers; Vince Gerardis, Guymon Casady, George R. R. Martin and Bryan Cogman, co-executive producers; Chris Newman, Greg Spence, Lisa McAtackney and Duncan Muggoch, producers",True
+103,1,2014,365,0,3,2,,,"Nic Pizzolatto, Cary Joji Fukunaga, Scott Stephens, Steve Golin, Woody Harrelson, Matthew McConaughey and Richard Brown, executive producers; Carol Cuddy, producer",False
+104,1,2017,373,0,3,2,,,"J. J. Abrams, Jonathan Nolan, Lisa Joy and Bryan Burk, executive producers; Athena Wickham, Kathy Lingg, Richard J. Lewis, Roberto Patino and Katherine Lingenfelter, co-executive producers; Cherylanne Martin, producer",False
+105,1,2018,373,0,3,2,,,"Jonathan Nolan, Lisa Joy, J. J. Abrams, Athena Wickham, Richard J. Lewis, Roberto Patino and Ben Stephenson, executive producers; Eugene Kelly, Ron Fitzgerald, Frederick E.O. Toye and Michael Polaire, co-executive producers; Carly Wray, Dan Dietz and Stephen Semel, producers; Jordan Goldberg, consulting producer",False
+106,1,2019,378,0,3,2,,,"Jesse Armstrong, Adam McKay, Will Ferrell, Frank Rich, Kevin Messick, Mark Mylod and Jane Tranter, executive producers; Tony Roche, Lucy Prebble and Georgia Pritchett, co-executive producers; Jonathan Glatzer and Jon Brown, supervising producers; Dara Schnapper, producer; Jonathan Filley, produced by",False
+107,1,2020,378,0,3,2,,,"Jesse Armstrong, Adam McKay, Will Ferrell, Frank Rich, Kevin Messick, Mark Mylod, Jane Tranter, Tony Roche and Scott Ferguson, executive producers; Jon Brown and Georgia Pritchett, co-executive producers; Jonathan Glatzer, supervising producer; Will Tracy, Dara Schnapper and Gabrielle Mahon, producers; Lucy Prebble, consulting producer",True
+108,1,2022,378,0,3,2,,,"Jesse Armstrong, Adam McKay, Will Ferrell, Frank Rich, Kevin Messick, Mark Mylod, Jane Tranter, Tony Roche, Scott Ferguson, Jon Brown, Lucy Prebble and Will Tracy, executive producers; Georgia Pritchett and Ted Cohen, co-executive producers; Susan Soon He Stanton and Dara Schnapper, supervising producers; Gabrielle Mahon, produced by; Francesca Gardiner, consulting producer",True
+109,1,2021,382,0,3,2,,,"Misha Green, J. J. Abrams, Jordan Peele, Bill Carraro, Yann Demange and Ben Stephenson, executive producers; Rachel Rusch Rich, Jonathan I. Kidd, Sonya Winton-Odamtten and Matt King, co-executive producers; Dana Robin, produced by",False
+110,1,2022,383,0,3,2,,,"Sam Levinson, Kevin Turen, Ravi Nandan, Drake, Adel ""Future"" Nur, Zendaya, Will Greenfield, Ashley Levinson, Ron Leshem and Hadas Moses Lichtenstein, executive producers; Kenneth Yu and Harrison Kreiss, producers",False
+111,1,2010,355,0,7,2,,,"John Goldwyn, Sara Colleton, Clyde Phillips, Charles H. Eglee, Melissa Rosenberg and Scott Buck, executive producers; Tim Schlattmann and Wendy West, supervising producers; Lauren Gussis, producer; Robert Lloyd Lewis, produced by",False
+112,1,2011,355,0,7,2,,,"John Goldwyn, Sara Colleton, Chip Johannessen, Manny Coto, Scott Buck and Michael C. Hall, executive producers; Tim Schlattmann and Wendy West, co-executive producers; Lauren Gussis, supervising producer; Robert Lloyd Lewis, produced by",False
+113,1,2012,362,0,7,2,,,"Alex Gansa, Howard Gordon, Michael Cuesta, Gideon Raff, Avi Nir and Ran Tellem, executive producers; Chip Johannessen and Alexander Cary, co-executive producers; Michael Klick, producer; Henry Bromell and Meredith Stiehm, consulting producers",True
+114,1,2013,362,0,7,2,,,"Alex Gansa, Howard Gordon, Michael Cuesta, Gideon Raff, Avi Nir, Ran Tellem, Meredith Stiehm, Chip Johannessen, Alexander Cary and Henry Bromell, executive producers; Michael Klick, producer",False
+115,1,2015,362,0,7,2,,,"Alex Gansa, Howard Gordon, Alexander Cary, Chip Johannessen, Lesli Linka Glatter, Meredith Stiehm, Gideon Raff, Avi Nir and Ran Telem, executive producers; Patrick Harbinson and Michael Klick, co-executive producers; Claire Danes and Lauren White, producers",False
+116,1,2016,362,0,7,2,,,"Alex Gansa, Howard Gordon, Chip Johannessen, Lesli Linka Glatter, Meredith Stiehm, Avi Nir, Ran Telem, Gideon Raff and Patrick Harbinson, executive producers; Michael Klick, Claire Danes, Ron Nyswaner, Ted Mann and Benjamin Cavell, co-executive producers; Lauren White and Katie O'Hara, producers",False
+117,1,2022,386,0,7,2,,,"Jonathan Lisco, Ashley Lyle and Bart Nickerson, Drew Comins and Karyn Kusama, executive producers; Liz Phang, Jamie Travis, Brad Van Arragon, Sarah L. Thompson and Ameni Rozsa, co-executive producers; Chantelle M. Wells, supervising producer",False
+118,1,2017,372,0,2,2,,,"Dan Fogelman, Jess Rosenthal, John Requa, Glenn Ficarra, Ken Olin, Donald Todd and Charles Gogolak, executive producers; KJ Steinberg, Isaac Aptaker, Elizabeth Berger, Joe Lawson and Steve Beers, co-executive producers; Vera Herbert and Bekah Brunstetter, producers",False
+119,1,2018,372,0,2,2,,,"Dan Fogelman, Jess Rosenthal, Isaac Aptaker, Elizabeth Berger, John Requa, Glenn Ficarra, Ken Olin and Charles Gogolak, executive producers; KJ Steinberg, Steve Beers, Don Roos and Tyler Bensinger, co-executive producers; Vera Herbert, supervising producer; Bekah Brunstetter, Cathy Mickel Gibson and Nick Pavonetti, producers",False
+120,1,2019,372,0,2,2,,,"Dan Fogelman, Jess Rosenthal, Isaac Aptaker, Elizabeth Berger, Ken Olin, John Requa, Glenn Ficarra and Charles Gogolak, executive producers; Steve Beers, KJ Steinberg, Kevin Falls and Julia Brownell, co-executive producers; Vera Herbert and Bekah Brunstetter, supervising producers; Shukree Hassan Tilghman, Nicholas Pavonetti and Cathy Mickel Gibson, producers",False
+121,1,2021,372,0,2,2,,,"John Requa, Glenn Ficarra, Charles Gogolak, Ken Olin, Isaac Aptaker, Elizabeth Berger, Dan Fogelman and Jess Rosenthal, executive producers; Kay Oyegun, Casey Johnson, David Windsor, Vera Herbert, Julia Brownell, Kevin Falls, K.J. Steinberg and Steve Beers, co-executive producers; Elan Mastai, supervising producer; Nick Pavonetti, producer; Cathy Mickel Gibson, produced by",False
+122,1,2010,356,0,1,2,,,"Robert King, Michelle King, Ridley Scott, Tony Scott, David W. Zucker and Brooke Kennedy, executive producers; Todd Ellis Kessler and Ted Humphrey, co-executive producers",False
+123,1,2011,356,0,1,2,,,"Ridley Scott, Tony Scott, Robert King, Michelle King, David W. Zucker and Brooke Kennedy, executive producers; Ted Humphrey, Leonard Dick and Keith Eisner, co-executive producers; Courtney A. Kemp and Corinne Brinkerhoff, producers",False
+124,1,2016,367,0,6,2,,,"Joe Weisberg, Joel Fields, Graham Yost, Darryl Frank, Justin Falvey and Chris Long, executive producers; Stephen Schiff, co-executive producer; Mary Rae Thewlis, produced by; Joshua Brand, consulting producer",False
+125,1,2018,367,0,6,2,,,"Joe Weisberg, Joel Fields, Chris Long, Graham Yost, Justin Falvey, Darryl Frank, Stephen Schiff and Mary Rae Thewlis, executive producers; Tracey Scott Wilson and Peter Ackerman, co-executive producers; Joshua Brand, consulting producer",False
+126,1,2019,377,0,6,2,,,"Ryan Murphy, Brad Falchuk, Nina Jacobson, Brad Simpson, Alexis Martin Woodall and Sherry Marsh, executive producers; Steven Canals and Silas Howard, co-executive producers; Janet Mock, Our Lady J and Lou Eyrich, producers; Erica Kay, produced by",False
+127,1,2021,377,0,6,2,,,"Ryan Murphy, Brad Falchuk, Nina Jacobson, Brad Simpson, Alexis Martin Woodall, Sherry Marsh, Steven Canals and Janet Mock, executive producers; Our Lady J, co-executive producer; Tanase Popa, supervising producer; Lou Eyrich, Jeff Dickerson and Todd Nenninger, producers; Kip Davis Myers, produced by",False
+128,1,2015,327,0,8,2,,,"Jenji Kohan, executive producer; Mark A. Burley, Stephen Falk, Sara Hess and Lisa I. Vinnecour, co-executive producers; Tara Herrmann, producer; Neri Kyle Tannenbaum, produced by",False
+129,1,2013,364,0,8,2,,,"David Fincher, Joshua Donen, Eric Roth, Beau Willimon, John Melfi, Kevin Spacey, Dana Brunetti, Michael Dobbs and Andrew Davies, executive producers; Rick Cleveland, Sarah Treem and Robert Zotnowski, co-executive producers; Keith Huff and Karyn McCarthy, producers",False
+130,1,2014,364,0,8,2,,,"Beau Willimon, Joshua Donen, Eric Roth, David Fincher, Kevin Spacey, Dana Brunetti, Andrew Davies, Michael Dobbs and David Manson, executive producers; John Mankiewicz and Robert Zotnowski, co-executive producers; Iain Paterson, produced by",False
+131,1,2015,364,0,8,2,,,"Beau Willimon, Andrew Davies, Michael Dobbs, Kevin Spacey, Dana Brunetti, Joshua Donen, Eric Roth, David David Fincher and John David Coles, executive producers; John Mankiewicz and Robert Zotnowski, co-executive producers; Frank Pugliese, supervising producer; Jay Carson, producer; Karen Moore, produced by",False
+132,1,2016,364,0,8,2,,,"Beau Willimon, Andrew Davies, Michael Dobbs, Robin Wright, Kevin Spacey, Dana Brunetti, Joshua Donen, Eric Roth and David Fincher, executive producers; John Mankiewicz and Robert Zotnowski, co-executive producers; Jay Carson and Frank Pugliese, supervising producers; Hameed Shaukat, producer; Boris Malden, produced by",False
+133,1,2017,364,0,8,2,,,"Melissa James Gibson, Frank Pugliese, Andrew Davies, Michael Dobbs, Robin Wright, Kevin Spacey, Dana Brunetti, Joshua Donen, Eric Roth, David Fincher, Daniel Minahan and John Mankiewicz, executive producers; Robert Zotnowski, co-executive producer; Kenneth Lin and Hameed Shaukat, supervising producers; Laura Eason and Bill Kennedy, producers; Boris Malden, produced by",False
+134,1,2017,370,0,8,2,,,"Peter Morgan, Stephen Daldry, Andy Harries, Philip Martin, Suzanne Mackie, Matthew Byam-Shaw, Robert Fox and Tanya Seghatchian, executive producers; Andrew Eaton, producer",False
+135,1,2018,370,0,8,2,,,"Peter Morgan, Stephen Daldry, Andy Harries, Philip Martin, Suzanne Mackie, Matthew Byam Shaw and Robert Fox, executive producers; Andy Stebbing and Martin Harrison, producers",False
+136,1,2020,370,0,8,2,,,"Peter Morgan, Suzanne Mackie, Stephen Daldry, Andy Harries, Benjamin Caron, Matthew Byam Shaw and Robert Fox, executive producers; Michael Casey, Andy Stebbing, Martin Harrison and Oona O Beirn, producers",False
+137,1,2021,370,0,8,2,,,"Peter Morgan, Suzanne Mackie, Stephen Daldry, Andy Harries, Benjamin Caron, Matthew Byam Shaw and Robert Fox, executive producers; Michael Casey, Andy Stebbing, Martin Harrison and Oona O Beirn, producers",True
+138,1,2017,371,0,8,2,,,"The Duffer Brothers, Dan Cohen and Shawn Levy, executive producers; Iain Paterson, co-executive producer",False
+139,1,2018,371,0,8,2,,,"Iain Paterson, Shawn Levy, Dan Cohen and The Duffer Brothers, executive producers; Rand Geiger and Justin Doble, producers",False
+140,1,2020,371,0,8,2,,,"Iain Paterson, Shawn Levy, Dan Cohen and The Duffer Brothers, executive producers; Curtis Gwinn, co-executive producer; Rand Geiger, producer",False
+141,1,2022,371,0,8,2,,,"The Duffer Brothers, Dan Cohen, Shawn Levy, Curtis Gwinn and Iain Paterson, executive producers; Rand Geiger, Kate Trefry and Paul Dichter, producers; Lampton Enochs, produced by",False
+142,1,2019,374,0,8,2,,,"Jed Mercurio, Simon Heath, Elizabeth Kilgarriff and Roderick Seligman, executive producers; Priscilla Parish and Eric Coulter, produced by",False
+143,1,2019,376,0,8,2,,,"Jason Bateman, Chris Mundy, Bill Dubuque, Mark Williams and David Manson, executive producers; Alyson Feltes, Ryan Farley and Patrick Markey, co-executive producers; Erin Mitchell, producer; Matthew Spiegel, produced by",False
+144,1,2020,376,0,8,2,,,"Jason Bateman, Chris Mundy, Bill Dubuque, Mark Williams, Patrick Markey and John Shiban, executive producers; Miki Johnson, supervising producer; Erin Mitchell, Martin Zimmerman and Peter Thorell, producers; Matthew Spiegel, produced by",False
+145,1,2022,376,0,8,2,,,"Jason Bateman, Chris Mundy, Bill Dubuque, Mark Williams, Patrick Markey and John Shiban, executive producers; Miki Johnson and Laura Linney, co-executive producers; Erin Mitchell and Martin Zimmerman, supervising producers; Paul Kolsby and Laura Deeley, producers; Dana Scott, produced by",False
+146,1,2021,381,0,8,2,,,"Chris Van Dusen, Shonda Rhimes and Betsy Beers, executive producers; Scott Collins, Alison Eakle, Sara Fischer, Julia Quinn, Leila Cohan-Miccio, Jonathan Igla and Janet Lin, co-executive producers; Holden Chang and Sarah Dollard, producers; Sarada McDermott, produced by",False
+147,1,2022,385,0,8,2,,,"Kim Ji-yeon and Hwang Dong-hyuk, executive producers",False
+148,1,2021,380,0,16,2,,,"Eric Kripke, Seth Rogen, Evan Goldberg, James Weaver, Neal H. Moritz, Pavun Shetty, Craig Rosenberg, Phil Sgriccia, Rebecca Sonnenshine, Ken F. Levin and Jason Netter, executive producers; Garth Ennis, Darick Robertson and Michael Saltzman, co-executive producers; Michaela Starr, supervising producer; Gabriel Garcia, producer; Hartley Gorenstein, produced by",False
+149,1,2022,384,0,13,2,,,"Ben Stiller, Nicholas Weinstock, Jackie Cohn, Mark Friedman, Dan Erickson, Andrew Colville, Chris Black and John Cameron, executive producers; Jill Footlick and Kari Drake, co-executive producers; Adam Scott, Patricia Arquette, Aoife McArdle, Amanda Overton and Gerry Robert Byrne, producers",False
+150,1,2017,369,0,12,2,,,"Bruce Miller, Warren Littlefield, Daniel Wilson, Fran Sears and Ilene Chaiken, executive producers; Sheila Hockin, Eric Tuchman, Frank Siracusa and John Weber, co-executive producers; Kira Snyder, supervising producer; Elisabeth Moss, producer; Joseph Boccia, produced by; Leila Gerstein, consulting producer",True
+151,1,2018,369,0,12,2,,,"Bruce Miller, Warren Littlefield, Elisabeth Moss, Daniel Wilson and Fran Sears, executive producers; Mike Barker, Sheila Hockin, Eric Tuchman, Kira Snyder, Yahlin Chang, Frank Siracusa and John Weber, co-executive producers; Dorothy Fortenberry, producer; Joseph Boccia, produced by; Margaret Atwood and Ron Milbauer, consulting producers",False
+152,1,2020,369,0,12,2,,,"Bruce Miller, Warren Littlefield, Elisabeth Moss, Daniel Wilson, Fran Sears, Mike Barker, Eric Tuchman, Sheila Hockin, John Weber and Frank Siracusa, executive producers; Kira Snyder, Yahlin Chang and Margaret Atwood, co-executive producers; Dorothy Fortenberry and Marissa Jo Cerar, supervising producers; Nina Fiore and John Herrera, producers; Kim Todd, produced by",False
+153,1,2021,369,0,12,2,,,"Bruce Miller, Warren Littlefield, Elisabeth Moss, Daniel Wilson, Fran Sears, Eric Tuchman, Sheila Hockin, John Weber, Frank Siracusa, Kira Snyder and Yahlin Chang, executive producers; Dorothy Fortenberry, Margaret Atwood, Kim Todd and Matt Hastings, co-executive producers; Nina Fiore and John Herrera, supervising producers",False
+154,1,2010,353,0,17,2,,,"Matthew Weiner and Scott Hornbacher, executive producers; Lisa Albert, supervising producer; Blake McCormick and Dwayne Shattuck, producers",True
+155,1,2011,353,0,17,2,,,"Matthew Weiner and Scott Hornbacher, executive producers; Andre Jacquemetton and Maria Jacquemetton, co-executive producers; Dahvi Waller, Jonathan Abrahams, Dwayne Shattuck and Blake McCormick, producers",True
+156,1,2012,353,0,17,2,,,"Matthew Weiner, Scott Hornbacher, Andre Jacquemetton and Maria Jacquemetton, executive producers; Victor Levin, co-executive producer; Jon Hamm and Blake McCormick, producers",False
+157,1,2013,353,0,17,2,,,"Matthew Weiner, Scott Hornbacher, Andre Jacquemetton, Maria Jacquemetton and Janet Leahy, executive producers; Semi Chellas, supervising producer; Jon Hamm, Blake McCormick and Erin Levy, producers",False
+158,1,2014,353,0,17,2,,,"Matthew Weiner, Scott Hornbacher and Janet Leahy, executive producers; Semi Chellas, co-executive producer; Erin Levy, supervising producer; Jon Hamm, Blake McCormick and Tom Smuts, producers",False
+159,1,2015,353,0,17,2,,,"Matthew Weiner, Scott Hornbacher and Janet Leahy, executive producers; Semi Chellas, co-executive producer; Erin Levy, supervising producer; Jon Hamm, Blake McCormick and Tom Smuts, producers",False
+160,1,2010,354,0,17,2,,,"Vince Gilligan and Mark Johnson, executive producers; Michelle MacLaren, co-executive producer; Sam Catlin, supervising producer; Melissa Bernstein, Peter Gould, George Mastras and Thomas Schnauz, producers; Stewart A. Lyons, produced by",False
+161,1,2012,354,0,17,2,,,"Vince Gilligan, Mark Johnson and Michelle MacLaren, executive producers; Melissa Bernstein and Sam Catlin, co-executive producers; Peter Gould, George Mastras and Thomas Schnauz, supervising producers; Moira Walley-Beckett, Bryan Cranston and Diane Mercer, producers; Stewart A. Lyons, produced by",False
+162,1,2013,354,0,17,2,,,"Vince Gilligan, Mark Johnson and Michelle MacLaren, executive producers; Melissa Bernstein, Sam Catlin, Peter Gould, George Mastras and Thomas Schnauz, co-executive producers; Moira Walley-Beckett, supervising producer; Bryan Cranston and Diane Mercer, producers; Stewart A. Lyons, produced by",True
+163,1,2014,354,0,17,2,,,"Vince Gilligan, Mark Johnson and Michelle MacLaren, executive producers; Melissa Bernstein, Sam Catlin, Peter Gould, George Mastras, Thomas Schnauz and Moira Walley-Beckett, co-executive producers; Bryan Cranston and Diane Mercer, producers; Stewart A. Lyons, produced by",True
+164,1,2015,366,0,17,2,,,"Vince Gilligan, Peter Gould, Mark Johnson and Melissa Bernstein, executive producers; Thomas Schnauz and Stewart A. Lyons, co-executive producers; Gennifer Hutchison, supervising producer; Diane Mercer, Nina Jack and Bob Odenkirk, producers",False
+165,1,2016,366,0,17,2,,,"Vince Gilligan, Peter Gould, Mark Johnson, Melissa Bernstein and Thomas Schnauz, executive producers; Gennifer Hutchison, co-executive producer; Nina Jack, supervising producer; Diane Mercer and Bob Odenkirk, producers; Robin Sweet, produced by",False
+166,1,2017,366,0,17,2,,,"Vince Gilligan, Peter Gould, Mark Johnson, Melissa Bernstein, Thomas Schnauz and Gennifer Hutchison, executive producers; Nina Jack and Diane Mercer, co-executive producers; Bob Odenkirk, Jonathan Glatzer and Gordon Smith, producers; Robin Sweet, produced by",False
+167,1,2019,366,0,17,2,,,"Vince Gilligan, Peter Gould, Mark Johnson, Melissa Bernstein, Thomas Schnauz and Gennifer Hutchison, executive producers; Nina Jack and Diane Mercer, co-executive producers; Gordon Smith and Alison Tatlock, supervising producers; Ann Cherkis and Bob Odenkirk, producers; Robin Sweet, produced by",False
+168,1,2020,366,0,17,2,,,"Peter Gould, Vince Gilligan, Mark Johnson, Melissa Bernstein and Thomas Schnauz, executive producers; Diane Mercer, Gordon Smith and Alison Tatlock, co-executive producers; Ann Cherkis, supervising producer; Bob Odenkirk, producer; Princess Nash, produced by",False
+169,1,2022,366,0,17,2,,,"Vince Gilligan, Peter Gould, Mark Johnson, Melissa Bernstein, Thomas Schnauz, Gordon Smith, Alison Tatlock, Diane Mercer and Michael Morris, executive producers; Ann Cherkis, co-executive producer; Trina Siopy, supervising producer; Bob Odenkirk and Jenn Carroll, producers; Jim Powers, produced by",False
+170,1,2011,360,0,18,2,,,"Brian Grazer, David Nevins, Peter Berg, Sarah Aubrey, David Hudgins and Jason Katims, executive producers; John Cameron, Patrick Massett, John Zinman and Bridget Carpenter, co-executive producers; Rolin Jones, supervising producer; Ron Fitzgerald, Michael Waxman and Kerry Ehrin, producers; Nan Bernstein Freed, produced by",False
+171,1,2012,363,0,19,2,,,"Gareth Neame, Julian Fellowes and Rebecca Eaton, executive producers; Liz Trubridge, producer",False
+172,1,2013,363,0,19,2,,,"Gareth Neame and Julian Fellowes, executive producers; Nigel Marchant, co-executive producer; Liz Trubridge, producer",False
+173,1,2014,363,0,19,2,,,"Gareth Neame, Julian Fellowes and Liz Trubridge, executive producers; Nigel Marchant, co-executive producer; Rupert Ryle-Hodges, producer",False
+174,1,2015,363,0,19,2,,,"Gareth Neame, Nigel Marchant, Julian Fellowes and Liz Trubridge, executive producers; Chris Croucher, producer",False
+175,1,2016,363,0,19,2,,,"Gareth Neame, Julian Fellowes, Liz Trubridge and Nigel Marchant, executive producers; Chris Croucher, producer",False
+176,1,2016,368,0,5,2,,,"Sam Esmail, Chad Hamilton and Steve Golin, executive producers; Kyle Bradstreet and David Iserson, supervising producers; Margo Myers Massey, produced by",False
+177,1,2019,375,0,22,2,,,"Sally Woodward Gentle, Lee Morris, Phoebe Waller-Bridge, Emerald Fennell, Gina Mingacci and Damon Thomas, executive producers; Francesca Gardiner and Sandra Oh, co-executive producers; Elinor Day, Morenike Williams and Andy Noble, produced by",False
+178,1,2020,375,0,22,2,,,"Sally Woodward Gentle, Lee Morris, Phoebe Waller-Bridge, Gina Mingacci, Sandra Oh, Damon Thomas, Suzanne Heathcote and Jeff Melvoin, executive producers; Lynn Horsford, co-executive producer; Nige Watson, produced by",False
+179,1,2020,379,0,25,2,,,"Jon Favreau, Dave Filoni, Kathleen Kennedy and Colin Wilson, executive producers; Karen Gilchrist, co-executive producer",False
+180,1,2021,379,0,25,2,,,"Jon Favreau, Dave Filoni, Kathleen Kennedy and Colin Wilson, executive producers; Karen Gilchrist and Carrie Beck, co-executive producers; John Bartnicki, producer",False
+181,2,2010,64,246,1,10,Sheldon Cooper,The Pants Alternative,,True
+182,2,2011,64,246,1,10,Sheldon Cooper,The Agreement Dissection,,True
+183,2,2012,64,246,1,10,Sheldon Cooper,The Werewolf Transformation,,False
+184,2,2013,64,246,1,10,Sheldon Cooper,The Habitation Configuration,,True
+185,2,2014,64,246,1,10,Sheldon Cooper,The Relationship Diremption,,True
+186,2,2011,64,245,1,10,Leonard Hofstadter,The Benefactor Factor,,False
+187,2,2012,250,919,1,10,Alan Harper,Frodo's Headshots,,True
+188,3,2010,266,85,1,10,Christine Campbell,I Love What You Do for Me,,False
+189,3,2012,244,85,3,10,Selina Meyer,Tears,,True
+190,3,2013,244,85,3,10,Selina Meyer,Running,,True
+191,3,2014,244,85,3,10,Selina Meyer,Crate,,True
+192,3,2015,244,85,3,10,Selina Meyer,Election Night,,True
+193,3,2016,244,85,3,10,Selina Meyer,Mother,,True
+194,3,2017,244,85,3,10,Selina Meyer,Groundbreaking,,True
+195,3,2019,244,85,3,10,Selina Meyer,Veep,,False
+196,3,2011,267,934,1,10,Molly Flynn,First Date,,True
+197,3,2012,267,934,1,10,Molly Flynn,The Dress,,False
+198,3,2014,267,934,1,10,Molly Flynn,Mind Over Molly,,False
+199,3,2017,279,351,1,10,Bonnie Plunkett,Tush Push and Some Radishes,,False
+200,3,2018,279,351,1,10,Bonnie Plunkett,Phone Confetti and a Wee Dingle,,False
+201,3,2021,279,351,1,10,Bonnie Plunkett,My Kinda People and the Big To-Do,,False
+202,2,2010,175,650,2,10,Jack Donaghy,"Don Geiss, America and Hope",,False
+203,2,2011,175,650,2,10,Jack Donaghy,Respawn,,False
+204,2,2012,175,650,2,10,Jack Donaghy,Live from Studio 6H,,False
+205,2,2013,175,650,2,10,Jack Donaghy,A Goon's Deed in a Weary World,,False
+206,3,2010,175,649,2,10,Liz Lemon,Dealbreakers Talk Show#0001,,False
+207,3,2011,175,649,2,10,Liz Lemon,Double-Edged Sword,,False
+208,3,2012,175,649,2,10,Liz Lemon,The Tuxedo Begins,,False
+209,3,2013,175,649,2,10,Liz Lemon,Hogcock! + Last Lunch,,False
+210,2,2010,11,41,2,10,Michael Scott,The Cover-Up,,False
+211,2,2011,11,41,2,10,Michael Scott,"Goodbye, Michael",,False
+212,2,2020,231,41,13,2,Mitch Kessler,Lonely at the Top,,False
+213,2,2018,172,926,2,10,Michael,Dance Dance Resolution,,False
+214,2,2019,172,926,2,10,Michael,The Worst Possible Use of Free Will,,False
+215,2,2020,172,926,2,10,Michael,Whenever You're Ready,,False
+216,2,2021,261,929,2,10,Kenan Williams,Flirting,,False
+217,3,2010,57,219,2,10,Leslie Knope,Telethon,,False
+218,3,2011,57,219,2,10,Leslie Knope,Flu Season,,False
+219,3,2012,57,219,2,10,Leslie Knope,"Win, Lose, or Draw",,False
+220,3,2013,57,219,2,10,Leslie Knope,Emergency Response + Leslie and Ben,,False
+221,3,2014,57,219,2,10,Leslie Knope,Recall Vote,,False
+222,3,2015,57,219,2,10,Leslie Knope,One Last Ride,,False
+223,2,2010,69,265,3,10,Larry David,Seinfeld,,False
+224,2,2012,69,265,3,10,Larry David,Palestinian Chicken,,False
+225,2,2018,69,265,3,10,Larry David,Fatwa!,,False
+226,2,2016,115,436,3,10,Richard Hendricks,The Empty Chair,,False
+227,2,2018,180,668,3,10,Barry Berkman / Barry Block,"Chapter Seven: Loud, Fast, and Keep Going",,True
+228,2,2019,180,668,3,10,Barry Berkman / Barry Block,The Truth Has a Ring to It,,True
+229,2,2022,180,668,3,10,Barry Berkman / Barry Block,starting now,,False
+230,3,2012,271,937,3,10,Hannah Horvath,She Did,,False
+231,3,2013,271,937,3,10,Hannah Horvath,Bad Friend,,False
+232,3,2014,271,937,3,10,Hannah Horvath,Beach House,,False
+233,3,2013,272,938,3,10,Amy Jellicoe,All I Ever Wanted,,False
+234,3,2015,273,31,3,10,Valerie Cherish,Valerie Is Taken Seriously,,False
+235,3,2016,277,942,3,10,Dr. Jenna James,Am I Still Me?,,False
+236,3,2018,280,945,3,10,Issa Dee,Hella Great,,False
+237,3,2020,280,945,3,10,Issa Dee,Lowkey Happy,,False
+238,3,2022,280,945,3,10,Issa Dee,"Reunited, Okay?!",,False
+239,2,2010,247,917,4,10,Will Schuester,Mash-Up,,False
+240,3,2010,247,933,4,10,Rachel Berry,Sectionals,,False
+241,2,2015,255,923,4,10,Phil Miller,Alive in Tucson,,False
+242,2,2016,255,923,4,10,Phil Miller,30 Years of Science Down the Tubes,,False
+243,3,2011,269,935,4,10,Virginia Chance,Say Cheese,,False
+244,3,2012,270,936,4,10,Jessica Day,Bad in Bed,,False
+245,2,2010,248,918,5,10,Adrian Monk,Mr. Monk and the End,,False
+246,2,2011,164,612,6,10,Louie,Bully,,False
+247,2,2012,164,612,6,10,Louie,Duckling,,False
+248,2,2013,164,612,6,10,Louie,"Daddy's Girlfriend, Part 1",,False
+249,2,2014,164,612,6,10,Louie,Model,,False
+250,2,2015,164,612,6,10,Louie,Bobby's House,,False
+251,2,2017,145,305,6,10,Earn Marks,The Big Bang,,True
+252,2,2018,145,305,6,10,Earn Marks,Teddy Perkins,,False
+253,2,2022,145,305,6,10,Earn Marks,Sinterklaas is Coming to Town,,False
+254,2,2017,257,925,6,10,Chip and Dale Baskets,Freaks,,False
+255,3,2017,278,547,6,10,Sam Fox,Future Fever,,False
+256,3,2018,278,547,6,10,Sam Fox,Eulogy,,False
+257,2,2011,249,32,7,10,Matt LeBlanc,Episode Seven,,False
+258,2,2013,249,32,7,10,Matt LeBlanc,Episode Two,,False
+259,2,2014,249,32,7,10,Matt LeBlanc,Episode Six,,False
+260,2,2015,249,32,7,10,Matt LeBlanc,Episode Five,,False
+261,2,2012,251,920,7,10,Marty Kaan,The Gods of Dangerous Financial Instruments,,False
+262,2,2013,251,920,7,10,Marty Kaan,Hostile Takeover,,False
+263,2,2014,251,920,7,10,Marty Kaan,Wreckage,,False
+264,2,2015,251,920,7,10,Marty Kaan,"It's a Box Inside a Box Inside a Box, Dipshit",,False
+265,2,2019,258,920,7,10,Maurice Monroe,365,,False
+266,2,2020,258,920,7,10,Maurice Monroe,Who Are You Supposed to Be?,,False
+267,2,2014,61,235,7,10,Frank Gallagher,Lazarus,,False
+268,2,2015,61,235,7,10,Frank Gallagher,"A Night to Remem... Wait, What?",,False
+269,2,2016,61,235,7,10,Frank Gallagher,I Only Miss Her When I'm Breathing,,False
+270,2,2017,61,235,7,10,Frank Gallagher,"You Sold Me the Laundromat, Remember?",,False
+271,2,2018,61,235,7,10,Frank Gallagher,Sleepwalking,,False
+272,2,2021,61,235,7,10,Frank Gallagher,"Father Frank, Full of Grace",,False
+273,3,2010,264,35,7,10,Jackie Peyton,Pilot,,True
+274,3,2011,264,35,7,10,Jackie Peyton,Rat Falls,,False
+275,3,2012,264,35,7,10,Jackie Peyton,Disneyland Sucks,,False
+276,3,2013,264,35,7,10,Jackie Peyton,Luck of the Drawing,,False
+277,3,2014,264,35,7,10,Jackie Peyton,Super Greens,,False
+278,3,2015,264,35,7,10,Jackie Peyton,I Say a Little Prayer,,False
+279,3,2010,265,594,7,10,Tara Gregson,Torando!,,False
+280,3,2011,268,242,7,10,Cathy Jamison,Pilot,,False
+281,3,2019,63,242,8,2,Wendy Byrde,One Way Out,,False
+282,3,2020,63,242,8,2,Wendy Byrde,Fire Pink,,False
+283,3,2022,63,242,8,2,Wendy Byrde,Pound of Flesh and Still Kickin',,False
+284,2,2013,37,142,8,10,Michael Bluth,Flight of the Phoenix,,False
+285,2,2018,63,142,8,2,"Martin ""Marty"" Byrde",The Toll,,False
+286,2,2019,63,142,8,2,"Martin ""Marty"" Byrde",Reparations,,False
+287,2,2020,63,142,8,2,Marty Byrde,Su Casa Es Mi Casa,,False
+288,2,2022,63,142,8,2,Marty Byrde,Pound of Flesh and Still Kickin’,,False
+289,2,2014,252,513,8,10,Derek Noakes,Episode 6,,False
+290,2,2016,256,924,8,10,Dev Shah,Parents,,False
+291,2,2017,256,924,8,10,Dev Shah,The Dinner Party,,False
+292,2,2019,259,927,8,10,Sandy Kominsky,Chapter One: An Actor Avoids,,False
+293,2,2020,259,927,8,10,Sandy Kominsky,Chapter 12: A Libido Sits in the Fridge,,False
+294,2,2021,259,927,8,10,Sandy Kominsky,"Chapter 20. The round toes, of the high shoes",,False
+295,3,2014,150,564,8,10,Piper Chapman,The Chickening,,False
+296,3,2015,275,940,8,10,Frankie Bergstein,The Vows,,False
+297,3,2016,275,940,8,10,Frankie Bergstein,The Test,,False
+298,3,2017,275,940,8,10,Frankie Bergstein,The Burglary,,False
+299,3,2018,275,940,8,10,Frankie Bergstein,The Home,,False
+300,3,2017,275,944,8,10,Grace Hanson,The Pot,,False
+301,3,2016,276,941,8,10,Kimmy Schmidt,Kimmy Goes to a Hotel!,,False
+302,3,2017,276,941,8,10,Kimmy Schmidt,Kimmy Goes to College!,,False
+303,3,2019,281,946,8,10,Jen Harding,I've Gotta Get Away,,False
+304,3,2020,281,946,8,10,Jen Harding,"It's Not You, It's Me",,False
+305,3,2020,281,226,8,10,Judy Hale,If Only You Knew,,False
+306,3,2019,282,947,8,10,Nadia Vulvokov,Nothing in This World Is Easy,,False
+307,2,2015,253,921,9,10,Maura Pfefferman,The Letting Go,,True
+308,2,2016,253,921,9,10,Maura Pfefferman,Man on the Land,,True
+309,2,2017,253,921,9,10,Maura Pfefferman,Elizah,,False
+310,3,2018,94,361,9,10,"Miriam ""Midge"" Maisel",Thank You and Good Night,,True
+311,3,2019,94,361,9,10,"Miriam ""Midge"" Maisel",Midnight at the Concord,,False
+312,3,2020,94,361,9,10,"Miriam ""Midge"" Maisel",A Jewish Girl Walks Into the Apollo...,,False
+313,3,2022,94,361,16,10,"Miriam ""Midge"" Maisel",How Do You Get to Carnegie Hall?,,False
+314,3,2019,74,284,9,10,Fleabag,Episode 1,,True
+315,2,2015,254,922,10,10,Andre Johnson,"Sex, Lies, and Vasectomies",,False
+316,2,2016,254,922,10,10,Andre Johnson,Hope,,False
+317,2,2017,254,922,10,10,Andre Johnson,Lemons,,False
+318,2,2018,254,922,10,10,Andre Johnson,Advance to Go (Collect $200),,False
+319,2,2019,254,922,10,10,Andre Johnson,Purple Rain,,False
+320,2,2020,254,922,10,10,Andre Johnson,"Love, Boat",,False
+321,2,2021,254,922,10,10,Andre Johnson,What About Gary?,,False
+322,3,2016,254,943,10,10,Dr. Rainbow Johnson,Sink or Swim,,False
+323,3,2017,254,943,10,10,Dr. Rainbow Johnson,Being Bow-racial,,False
+324,3,2018,254,943,10,10,Dr. Rainbow Johnson,Elder. Scam.,,False
+325,3,2020,254,943,10,10,Dr. Rainbow Johnson,Kid Life Crisis,,False
+326,3,2021,254,943,10,10,Dr. Rainbow Johnson,Babes in Boyland,,False
+327,3,2022,286,950,10,10,Janine Teagues,Pilot,,False
+328,2,2019,129,487,11,10,Johnny Rose,Rock On!,,False
+329,2,2020,129,487,11,10,Johnny Rose,The Pitch,,True
+330,3,2019,129,948,11,10,Moira Rose,The Crowening,,False
+331,3,2020,129,948,11,10,Moira Rose,The Incident,,True
+332,2,2020,260,928,12,10,Ramy Hassan,You Are Naked in Front of Your Sheikh,,False
+333,2,2022,262,930,12,10,Peter III / Yemelyan Pugachev,Wedding,,False
+334,3,2022,262,951,12,10,Catherine the Great,Alone at Last,,False
+335,2,2022,263,931,12,10,Charles-Haden Savage,Open and Shut,,False
+336,2,2022,263,932,12,10,Oliver Putnam,How Well Do You Know Your Neighbors?,,False
+337,3,2021,284,949,12,10,Annie Easton,Ranchers,,False
+338,2,2021,35,134,13,10,Ted Lasso,Pilot,,True
+339,2,2022,35,134,13,10,Ted Lasso,No Weddings and a Funeral,,True
+340,3,2015,274,939,14,10,Various characters,Cool With It,,False
+341,3,2016,274,939,14,10,Various characters,Welcome to the Gun Show,,False
+342,3,2021,283,493,15,10,Deborah Vance,1.69 Million,,True
+343,3,2022,283,493,15,10,Deborah Vance,The Click,,True
+344,3,2021,285,247,15,10,Cassie Bowden,In Case of Emergency,,False
+345,3,2022,285,247,15,10,Cassie Bowden,Drowning Women,,False
+346,3,2010,202,755,1,2,Alicia Florrick,Threesome,,False
+347,3,2011,202,755,1,2,Alicia Florrick,In Sickness,,True
+348,3,2012,202,755,1,2,Alicia Florrick,Parenting Made Easy,,False
+349,3,2014,202,755,1,2,Alicia Florrick,The Last Call,,True
+350,2,2017,82,317,2,2,Randall Pearson,Memphis,,True
+351,2,2018,82,317,2,2,Randall Pearson,Number Three,,False
+352,2,2019,82,317,2,2,Randall Pearson,R & B,,False
+353,2,2020,82,317,2,2,Randall Pearson,After the Fire,,False
+354,2,2021,82,317,2,2,Randall Pearson,Forty: Part 2,,False
+355,2,2017,82,315,2,2,Jack Pearson,Moonshadow,,False
+356,2,2018,82,315,2,2,Jack Pearson,The Car,,False
+357,2,2019,82,315,2,2,Jack Pearson,Sometimes,,False
+358,3,2019,82,316,2,2,Rebecca Pearson,The Graduates,,False
+359,3,2010,294,963,2,2,Olivia Benson,Perverted,,False
+360,3,2011,294,963,2,2,Olivia Benson,Rescue,,False
+361,3,2011,295,627,2,2,Harriet Korn,Innocent Man,,False
+362,3,2012,295,627,2,2,Harriet Korn,Onward and Upward,,False
+363,2,2011,84,323,3,2,Nucky Thompson,A Return to Normalcy,,False
+364,2,2012,84,323,3,2,Nucky Thompson,Two Boats and a Lifeguard,,False
+365,2,2013,114,432,3,2,Will McAvoy,We Just Decided To,,True
+366,2,2014,114,432,3,2,Will McAvoy,"Election Night, Part II",,False
+367,2,2015,114,432,3,2,Will McAvoy,What Kind of Day Has It Been,,False
+368,2,2014,14,953,3,2,Martin Hart,The Locked Room,,False
+369,2,2014,14,954,3,2,Rust Cohle,Form and Void,,False
+370,2,2017,40,955,3,2,Dr. Robert Ford,The Bicameral Mind,,False
+371,2,2018,40,156,3,2,The Man in Black / William,Vanishing Point,,False
+372,2,2018,40,155,3,2,Bernard Lowe,The Passenger,,False
+373,3,2017,40,154,3,2,Dolores Abernathy,The Bicameral Mind,,False
+374,3,2018,40,154,3,2,Dolores Abernathy,Reunion,,False
+375,2,2019,2,7,3,2,Jon Snow,The Iron Throne,,False
+376,3,2019,2,5,3,2,Daenerys Targaryen,The Last of the Starks,,False
+377,2,2020,47,957,3,2,Kendall Roy,This Is Not for Tears,,True
+378,2,2022,47,957,3,2,Kendall Roy,Too Much Birthday,,False
+379,2,2020,47,183,3,2,Logan Roy,Hunting,,False
+380,2,2022,47,183,3,2,Logan Roy,All the Bells Say,,False
+381,2,2021,289,959,3,2,Atticus Freeman,Sundown,,False
+382,3,2021,289,972,3,2,"Letitia ""Leti"" Lewis",Holy Ghost,,False
+383,2,2021,290,616,3,2,Perry Mason,Chapter 8,,False
+384,2,2016,165,616,6,2,Philip Jennings,The Magic of David Copperfield V: The Statue of Liberty Disappears,,False
+385,2,2017,165,616,6,2,Philip Jennings,Crossbreed,,False
+386,2,2018,165,616,6,2,Philip Jennings,START,,True
+387,3,2020,136,516,3,2,"Ruby ""Rue"" Bennett",Made You Look,,True
+388,3,2022,136,516,3,2,"Ruby ""Rue"" Bennett",Stand Still Like the Hummingbird,,True
+389,3,2021,302,970,3,2,Dr. Brooke Taylor,Brooke — Week 5,,False
+390,2,2010,30,114,4,2,Gregory House,Broken,,False
+391,2,2011,30,114,4,2,Gregory House,After Hours,,False
+392,3,2015,300,403,4,2,Cookie Lyon,Pilot,,False
+393,3,2016,300,403,4,2,Cookie Lyon,Rise by Sin,,False
+394,2,2016,52,199,5,2,Elliot Alderson,eps1.0 hellofriend.mov,,True
+395,2,2011,125,451,6,2,Raylan Givens,Reckoning,,False
+396,3,2016,165,615,6,2,Elizabeth Jennings,The Magic of David Copperfield V: The Statue of Liberty Disappears,,False
+397,3,2017,165,615,6,2,Elizabeth Jennings,Dyatkovo,,False
+398,3,2018,165,615,6,2,Elizabeth Jennings,The Summit,,False
+399,2,2019,288,956,6,2,Pray Tell,Love Is the Message,,True
+400,2,2020,288,956,6,2,Pray Tell,Love's in Need of Love Today,,False
+401,2,2021,288,956,6,2,Pray Tell,Take Me To Church,,False
+402,3,2021,288,971,6,2,Blanca Rodriguez,Series Finale,,False
+403,3,2010,293,962,6,2,Patty Hewes,Your Secrets Are Safe,,False
+404,3,2012,293,962,18,2,Patty Hewes,I've Done Way Too Much for This Girl,,False
+405,2,2010,19,73,7,2,Dexter Morgan,The Getaway,,False
+406,2,2011,19,73,7,2,Dexter Morgan,Teenage Wasteland,,False
+407,2,2012,19,73,7,2,Dexter Morgan,Nebraska,,False
+408,2,2012,103,14,7,2,Nicholas Brody,Marine One,,True
+409,2,2013,103,14,7,2,Nicholas Brody,Q&A,,False
+410,3,2012,103,393,7,2,Carrie Mathison,The Vest,,True
+411,3,2013,103,393,7,2,Carrie Mathison,Q&A,,True
+412,3,2014,103,393,7,2,Carrie Mathison,The Star,,False
+413,3,2015,103,393,7,2,Carrie Mathison,From A to B and Back Again,,False
+414,3,2016,103,393,7,2,Carrie Mathison,Super Powers,,False
+415,2,2015,224,834,7,2,Ray Donovan,Walk This Way,,False
+416,2,2016,224,834,7,2,Ray Donovan,Exsuscito,,False
+417,2,2017,224,834,7,2,Ray Donovan,Rattus Rattus,,False
+418,3,2014,299,967,7,2,Virginia E. Johnson,Pilot,,False
+419,3,2022,303,478,7,2,Shauna Sadecki,Doomcoming,,False
+420,2,2013,29,110,8,2,Frank Underwood,Chapter 1,,False
+421,2,2014,29,110,8,2,Frank Underwood,Chapter 26,,False
+422,2,2015,29,110,8,2,Frank Underwood,Chapter 32,,False
+423,2,2016,29,110,8,2,Frank Underwood,Chapter 52,,False
+424,2,2017,29,110,8,2,Frank Underwood,Chapter 53,,False
+425,3,2013,29,112,8,2,Claire Underwood,Chapter 10,,False
+426,3,2014,29,112,8,2,Claire Underwood,Chapter 26,,False
+427,3,2015,29,112,8,2,Claire Underwood,Chapter 32,,False
+428,3,2016,29,112,8,2,Claire Underwood,Chapter 49,,False
+429,3,2017,29,112,8,2,Claire Underwood,Chapter 65,,False
+430,3,2019,29,112,8,2,Claire Underwood,Chapter 70,,False
+431,2,2015,287,509,8,2,John Rayburn,Part 12,,False
+432,2,2016,287,509,8,2,John Rayburn,Part 23,,False
+433,2,2010,135,509,18,2,Eric Taylor,East of Dillon,,False
+434,2,2011,135,509,18,2,Eric Taylor,Always,,True
+435,2,2021,72,958,8,2,"Charles, Prince of Wales",Terra Nullius,,True
+436,3,2017,72,277,8,2,Queen Elizabeth II,Assassins,,False
+437,3,2018,72,277,8,2,Queen Elizabeth II,Dear Mrs. Kennedy,,True
+438,3,2020,72,278,8,2,Queen Elizabeth II,Cri de Coeur,,False
+439,3,2021,72,278,8,2,Queen Elizabeth II,48:1,,True
+440,3,2021,72,969,8,2,"Diana, Princess of Wales",Fairytale,,False
+441,2,2021,291,960,8,2,Simon Bassett,Art of the Swoon,,False
+442,2,2022,141,534,8,2,Seong Gi-hun,Gganbu,,True
+443,2,2010,73,952,10,2,Jack Shephard,The End,,False
+444,3,2013,296,510,10,2,Rayna Jaymes,Pilot,,False
+445,3,2010,135,510,18,2,Tami Taylor,After the Fall,,False
+446,3,2011,135,510,18,2,Tami Taylor,Always,,False
+447,3,2013,298,966,10,2,Olivia Pope,"Happy Birthday, Mr. President",,False
+448,3,2014,298,966,10,2,Olivia Pope,The Fluffer,,False
+449,3,2015,226,842,10,2,Annalise Keating,Freakin' Whack-a-Mole,,True
+450,3,2016,226,842,10,2,Annalise Keating,There's My Baby,,False
+451,3,2017,226,842,10,2,Annalise Keating,Wes,,False
+452,3,2019,226,842,10,2,Annalise Keating,He Betrayed Us Both,,False
+453,3,2017,105,175,12,2,June Osborne / Offred,Night,,True
+454,3,2018,105,175,12,2,June Osborne / Offred,The Last Ceremony,,False
+455,3,2021,105,175,12,2,June Osborne,Home,,False
+456,3,2011,45,175,17,2,Peggy Olson,The Suitcase,,False
+457,3,2012,45,175,17,2,Peggy Olson,The Other Woman,,False
+458,3,2013,45,175,17,2,Peggy Olson,The Better Half,,False
+459,3,2015,45,175,17,2,Peggy Olson,Person to Person,,False
+460,3,2020,231,29,13,2,Alex Levy,In the Dark Night of the Soul It's Always 3:30 in the Morning,,False
+461,3,2022,231,368,13,2,Bradley Jackson,Confirmations,,False
+462,2,2022,81,311,13,2,Mark Scout,Good News About Hell,,False
+463,2,2010,1,1,17,2,Walter White,Full Measure,,True
+464,2,2012,1,1,17,2,Walter White,Crawl Space,,False
+465,2,2013,1,1,17,2,Walter White,Say My Name,,False
+466,2,2014,1,1,17,2,Walter White,Ozymandias,,True
+467,2,2010,45,174,17,2,Don Draper,The Gypsy and the Hobo,,False
+468,2,2011,45,174,17,2,Don Draper,The Suitcase,,False
+469,2,2012,45,174,17,2,Don Draper,The Other Woman,,False
+470,2,2013,45,174,17,2,Don Draper,In Care Of,,False
+471,2,2014,45,174,17,2,Don Draper,The Strategy,,False
+472,2,2015,45,174,17,2,Don Draper,Person to Person,,True
+473,3,2010,45,177,17,2,Betty Draper,The Gypsy and the Hobo,,False
+474,2,2015,15,57,17,2,Jimmy McGill,Pimento,,False
+475,2,2016,15,57,17,2,Jimmy McGill,Klick,,False
+476,2,2017,15,57,17,2,Jimmy McGill,Expenses,,False
+477,2,2019,15,57,17,2,Jimmy McGill,Winner,,False
+478,2,2022,15,57,17,2,Jimmy McGill / Saul Goodman,Plan and Execution,,False
+479,3,2011,188,701,17,2,Sarah Linden,Missing,,False
+480,2,2012,55,211,19,2,Robert Crawley,Episode Seven,,False
+481,2,2013,55,211,19,2,Robert Crawley,Episode Five,,False
+482,3,2012,55,964,19,2,Lady Mary Crawley,Episode Seven,,False
+483,3,2013,55,964,19,2,Lady Mary Crawley,Episode One,,False
+484,3,2014,55,964,19,2,Lady Mary Crawley,Episode One,,False
+485,3,2010,292,961,20,2,Brenda Leigh Johnson,Maternal Instincts,,True
+486,3,2013,297,965,21,2,Norma Bates,"First You Dream, Then You Die",,False
+487,3,2015,195,728,22,2,Various characters,Certain Agony of the Battlefield,,False
+488,3,2016,195,728,22,2,Various characters,The Antisocialism of Sex,,True
+489,3,2018,195,728,22,2,Various characters,To Right the Wrongs of Many,,False
+490,3,2018,301,309,22,2,Eve Polastri,I Have a Thing About Bathrooms,,False
+491,3,2019,301,309,22,2,Eve Polastri,You're Mine,,False
+492,3,2020,301,309,22,2,Eve Polastri,Are You Leading or Am I?,,False
+493,3,2022,301,309,22,2,Eve Polastri,Making Dead Things Look Nice,,False
+494,3,2019,301,968,22,2,Villanelle,I Hope You Like Missionary!,,True
+495,3,2020,301,968,22,2,Villanelle,Are You From Pinner?,,False
+496,3,2022,301,968,22,2,Villanelle,Don't Get Eaten,,False
+497,2,2010,44,973,10,10,Cameron Tucker,Fizbo,,True
+498,2,2011,44,973,10,10,Cameron Tucker,Mother's Day,,False
+499,2,2012,44,973,10,10,Cameron Tucker,Treehouse,,True
+500,2,2010,44,173,10,10,Phil Dunphy,Up All Night,,False
+501,2,2011,44,173,10,10,Phil Dunphy,Good Cop Bad Dog,,True
+502,2,2012,44,173,10,10,Phil Dunphy,Lifetime Supply,,False
+503,2,2013,44,173,10,10,Phil Dunphy,Mistery Date,,False
+504,2,2014,44,173,10,10,Phil Dunphy,Spring-a-Ding-Fling,,True
+505,2,2015,44,173,10,10,Phil Dunphy,Crying Out Loud,,False
+506,2,2016,44,173,10,10,Phil Dunphy,The Party,,False
+507,2,2017,44,173,10,10,Phil Dunphy,Grab It,,False
+508,2,2010,44,975,10,10,Mitchell Pritchett,Family Portrait,,False
+509,2,2011,44,975,10,10,Mitchell Pritchett,Halloween,,False
+510,2,2012,44,975,10,10,Mitchell Pritchett,Leap Day,,False
+511,2,2013,44,975,10,10,Mitchell Pritchett,The Wow Factor,,False
+512,2,2014,44,975,10,10,Mitchell Pritchett,Message Received,,False
+513,2,2011,44,976,10,10,Jay Pritchett,The Kiss,,False
+514,2,2012,44,976,10,10,Jay Pritchett,Baby on Board,,False
+515,2,2013,44,976,10,10,Jay Pritchett,Bringing Up Baby,,False
+516,3,2010,44,172,10,10,Claire Dunphy,My Funky Valentine,,False
+517,3,2011,44,172,10,10,Claire Dunphy,Strangers on a Treadmill,,True
+518,3,2012,44,172,10,10,Claire Dunphy,Go Bullfrogs!,,True
+519,3,2013,44,172,10,10,Claire Dunphy,My Hero,,False
+520,3,2014,44,172,10,10,Claire Dunphy,The Feud,,False
+521,3,2015,44,172,10,10,Claire Dunphy,Valentine's Day 4: Twisted Sister,,False
+522,3,2010,44,171,10,10,Gloria Pritchett,Not in My House,,False
+523,3,2011,44,171,10,10,Gloria Pritchett,Slow Down Your Neighbors,,False
+524,3,2012,44,171,10,10,Gloria Pritchett,Tableau Vivant,,False
+525,3,2013,44,171,10,10,Gloria Delgado-Pritchett,Yard Sale,,False
+526,2,2022,286,994,10,10,Gregory Eddie,Work Family,,False
+527,3,2022,286,1017,10,10,Barbara Howard,New Tech,,True
+528,3,2022,286,1018,10,10,Ava Coleman,Ava vs. Superintendent,,False
+529,3,2012,308,1001,10,10,Karen McCluskey,Give Me the Blame + Finishing the Hat,,False
+530,3,2018,310,942,10,10,Jackie Harris,No Country for Old Women,,False
+531,2,2010,247,974,4,10,Kurt Hummel,Laryngitis,,False
+532,2,2011,247,974,4,10,Kurt Hummel,Grilled Cheesus,,False
+533,3,2010,247,995,4,10,Sue Sylvester,The Power of Madonna,,True
+534,3,2011,247,995,4,10,Sue Sylvester,Funeral,,False
+535,3,2013,247,995,4,10,Sue Sylvester,Feud,,False
+536,2,2012,270,977,4,10,Schmidt,Control,,False
+537,2,2014,87,980,4,10,Captain Ray Holt,Christmas,,False
+538,2,2015,87,980,4,10,Captain Ray Holt,The Mole,,False
+539,2,2016,87,980,4,10,Captain Ray Holt,The Oolong Slayer,,False
+540,2,2020,87,980,2,10,Captain Ray Holt,Ransom,,False
+541,2,2010,312,980,20,2,"Owen Thoreau, Jr.",Powerless,,False
+542,2,2011,312,980,20,2,"Owen Thoreau, Jr.",Let the Sunshine In,,False
+543,2,2010,250,919,1,10,Alan Harper,Captain Terry's Spray-On Hair,,False
+544,2,2011,250,919,1,10,Alan Harper,The Immortal Mr. Billy Joel,,False
+545,3,2010,250,997,1,10,Evelyn Harper,Give Me Your Thumb,,False
+546,2,2010,56,218,1,10,Barney Stinson,Girls Versus Suits,,False
+547,3,2012,64,1000,1,10,Amy Farrah Fowler,The Shiny Trinket Maneuver,,False
+548,3,2013,64,1000,1,10,Amy Farrah Fowler,The Fish Guts Displacement,,False
+549,3,2014,64,1000,1,10,Amy Farrah Fowler,The Indecision Amalgamation,,False
+550,3,2015,64,1000,1,10,Amy Farrah Fowler,The Prom Equivalency,,False
+551,3,2014,279,351,1,10,Bonnie Plunkett,Estrogen and a Hearty Breakfast,,True
+552,3,2015,279,351,1,10,Bonnie Plunkett,Dropped Soap and a Big Guy on a Throne,,False
+553,3,2016,279,351,1,10,Bonnie Plunkett,Terrorists and Gingerbread,,False
+554,2,2012,304,668,2,10,Various characters,Host: Katy Perry,,False
+555,2,2013,304,668,2,10,Various characters,Host: Seth MacFarlane,,False
+556,2,2017,304,650,2,10,Donald Trump,Host: Melissa McCarthy,,True
+557,2,2018,304,650,2,10,Donald Trump,Host: Donald Glover,,False
+558,2,2018,304,929,2,10,Various characters,Host: John Mulaney,,False
+559,2,2020,304,929,2,10,Various characters,At Home #2,,False
+560,2,2021,304,929,2,10,Various characters,Host: Dave Chappelle,,False
+561,2,2021,304,992,2,10,Various characters,Host: Carey Mulligan,,False
+562,2,2022,304,992,2,10,Various characters,Host: Rami Malek,,False
+563,3,2010,304,998,2,10,Various characters,Host: James Franco,,False
+564,3,2011,304,998,2,10,Various characters,Host: Jane Lynch,,False
+565,3,2012,304,998,2,10,Various characters,Host: Mick Jagger,,False
+566,3,2014,304,1002,2,10,Various characters,Host: Anna Kendrick,,False
+567,3,2015,304,1002,2,10,Various characters,Host: Taraji P. Henson,,False
+568,3,2016,304,1002,2,10,Various characters,Host: Ariana Grande,,True
+569,3,2017,304,1002,2,10,Various characters,Host: Dave Chappelle,,True
+570,3,2018,304,1002,2,10,Various characters,Host: Bill Hader,,False
+571,3,2019,304,1002,2,10,Various characters,Host: Liev Schreiber,,False
+572,3,2020,304,1002,2,10,Various characters,Host: Daniel Craig,,False
+573,3,2021,304,1002,2,10,Various characters,Host: Bill Burr,,False
+574,3,2022,304,1002,2,10,Various characters,Host: Natasha Lyonne,,False
+575,3,2017,304,1007,2,10,Various characters,Host: Dwayne Johnson,,False
+576,3,2017,304,1008,2,10,Various characters,Host: Tom Hanks,,False
+577,3,2018,304,1008,2,10,Various characters,Host: Donald Glover,,False
+578,3,2018,304,949,2,10,Various characters,Host: Chadwick Boseman,,False
+579,3,2021,304,949,2,10,Various characters,Host: Regé-Jean Page,,False
+580,3,2020,304,1013,2,10,Various characters,Host: Eddie Murphy,,False
+581,3,2021,304,1013,2,10,Various characters,Host: Anya Taylor-Joy,,False
+582,2,2020,172,640,2,10,Chidi Anagonye,Whenever You're Ready,,False
+583,3,2020,172,1011,2,10,Janet,"You've Changed, Man",,False
+584,3,2010,175,996,2,10,Jenna Maroney,Black Light Attack!,,False
+585,3,2011,175,996,2,10,Jenna Maroney,Queen of Jordan,,False
+586,3,2013,175,996,2,10,Jenna Maroney,Hogcock! + Last Lunch,,False
+587,3,2015,276,996,8,10,Jacqueline Voorhees,Kimmy Gets a Job!,,False
+588,3,2018,311,1010,2,10,Karen Walker,Rosario's Quinceanera,,False
+589,2,2013,244,907,3,10,Gary Walsh,Running,,True
+590,2,2014,244,907,3,10,Gary Walsh,Crate,,False
+591,2,2015,244,907,3,10,Gary Walsh,East Wing,,True
+592,2,2016,244,907,3,10,Gary Walsh,Inauguration,,False
+593,2,2017,244,907,3,10,Gary Walsh,Judge,,False
+594,2,2019,244,907,3,10,Gary Walsh,Veep,,False
+595,2,2016,244,984,3,10,Mike McLintock,Kissing Your Sister,,False
+596,2,2017,244,984,3,10,Mike McLintock,Chicklet,,False
+597,3,2013,244,908,3,10,Amy Brookheimer,First Response,,False
+598,3,2014,244,908,3,10,Amy Brookheimer,Detroit,,False
+599,3,2015,244,908,3,10,Amy Brookheimer,Convention,,False
+600,3,2016,244,908,3,10,Amy Brookheimer,C**tgate,,False
+601,3,2017,244,908,3,10,Amy Brookheimer,Groundbreaking,,False
+602,3,2019,244,908,3,10,Amy Brookheimer,Pledge,,False
+603,2,2013,271,978,3,10,Adam Sackler,It's Back,,False
+604,2,2014,271,978,3,10,Adam Sackler,Two Plane Rides,,False
+605,2,2015,271,978,3,10,Adam Sackler,Close-Up,,False
+606,2,2018,180,985,3,10,Gene Cousineau,Chapter Four: Commit... to YOU,,True
+607,2,2019,180,985,3,10,Gene Cousineau,What?!,,False
+608,2,2022,180,985,3,10,Gene Cousineau,starting now,,False
+609,2,2019,180,671,3,10,NoHo Hank,Past = Present x Future Over Yesterday,,False
+610,2,2022,180,671,3,10,NoHo Hank,forgiving jeff,,False
+611,2,2019,180,669,3,10,Monroe Fuches,berkman > block,,False
+612,3,2019,180,670,3,10,Sally Reed,The Audition,,False
+613,3,2015,277,1005,3,10,"Denise ""DiDi"" Ortley",The 7th Annual Christmas Card Competition,,False
+614,3,2016,277,1005,3,10,"Denise ""DiDi"" Ortley",Don't Let It Get in You or on You,,False
+615,3,2020,280,1012,3,10,Molly Carter,Lowkey Lost,,False
+616,2,2014,305,979,23,10,Various characters,Pull-Out King,,False
+617,2,2015,276,981,8,10,Titus Andromedon,Kimmy Goes to School!,,False
+618,2,2016,276,981,8,10,Titus Andromedon,Kimmy Gives Up!,,False
+619,2,2017,276,981,8,10,Titus Andromedon,Kimmy's Roommate Lemonades!,,False
+620,2,2018,276,981,8,10,Titus Andromedon,Kimmy and the Beest!,,False
+621,2,2019,259,986,8,10,Norman Newlander,Chapter Two: An Agent Grieves,,False
+622,2,2020,259,986,8,10,Norman Newlander,"Chapter 14. A Secret Leaks, a Teacher Speaks",,False
+623,2,2021,259,990,8,10,Martin Schneider,Chapter 18. You only give me your funny paper,,False
+624,3,2014,150,1003,8,10,"Galina ""Red"" Reznikov",Tit Punch,,False
+625,3,2018,309,1009,8,10,"Debbie ""Liberty Belle"" Eagan",Debbie Does Something,,False
+626,3,2019,309,1009,8,10,"Debbie ""Liberty Belle"" Eagan",Mother of All Matches,,False
+627,3,2020,309,1009,8,10,"Debbie ""Liberty Belle"" Eagan",A Very GLOW Christmas,,False
+628,2,2015,306,982,14,10,Various characters,Sex Detective,,False
+629,2,2016,306,982,14,10,Various characters,Y'all Ready for This?,,False
+630,2,2016,257,983,6,10,Christine Baskets,Easter in Bakersfield,,True
+631,2,2017,257,983,6,10,Christine Baskets,Denver,,False
+632,2,2018,257,983,6,10,Christine Baskets,Thanksgiving,,False
+633,2,2018,145,548,6,10,"Alfred ""Paper Boi"" Miles",Woods,,False
+634,3,2018,145,310,6,10,"Vanessa ""Van"" Keefer",Helen,,False
+635,2,2018,94,918,9,10,Abe Weissman,Thank You and Good Night,,False
+636,2,2019,94,918,9,10,Abe Weissman,We're Going to the Catskills!,,True
+637,2,2020,94,918,9,10,Abe Weissman,Marvelous Radio,,False
+638,2,2022,94,918,16,10,Abe Weissman,Everything Is Bellmore,,False
+639,2,2020,94,317,9,10,Reggie,Panty Pose,,False
+640,3,2018,94,362,9,10,Susie Myerson,Doink,,True
+641,3,2019,94,362,9,10,Susie Myerson,"Vote for Kennedy, Vote for Kennedy",,True
+642,3,2020,94,362,9,10,Susie Myerson,Marvelous Radio,,False
+643,3,2022,94,362,16,10,Susie Myerson,Everything Is Bellmore,,False
+644,3,2019,94,364,9,10,Rose Weissman,Simone,,False
+645,3,2020,94,364,9,10,Rose Weissman,A Jewish Girl Walks Into the Apollo...,,False
+646,3,2015,253,1004,9,10,Ali Pfefferman,Rollin',,False
+647,3,2016,253,1004,9,10,Ali Pfefferman,Bulnerable,,False
+648,3,2016,253,1006,9,10,Shelly Pfefferman,Flicky-Flicky Thump-Thump,,False
+649,3,2017,253,1006,9,10,Shelly Pfefferman,Exciting and New,,False
+650,3,2017,253,776,9,10,Raquel Fein,Life Sucks and Then You Die,,False
+651,3,2019,74,285,9,10,Claire,Episode 203,,False
+652,3,2019,74,278,9,10,Godmother,Episode 204,,False
+653,2,2020,129,489,11,10,David Rose,Happy Ending,,True
+654,3,2020,129,490,11,10,Alexis Rose,The Presidential Suite,,True
+655,2,2020,260,987,12,10,Sheikh Ali Malik,Little Omar,,False
+656,2,2021,35,135,13,10,Roy Kent,All Apologies,,True
+657,2,2022,35,135,13,10,Roy Kent,Rainbow,,True
+658,2,2021,35,137,13,10,Coach Beard,Two Aces,,True
+659,2,2021,35,989,13,10,Nathan Shelley,Make Rebecca Great Again,,False
+660,2,2022,35,989,13,10,Nathan Shelley,Inverting the Pyramid of Success,,False
+661,2,2021,35,991,13,10,Leslie Higgins,Biscuits,,False
+662,2,2022,35,993,13,10,Sam Obisanya,Do the Right-est Thing,,False
+663,3,2021,35,136,13,10,Rebecca Welton,All Apologies,,True
+664,3,2022,35,136,13,10,Rebecca Welton,No Weddings and a Funeral,,False
+665,3,2021,35,1016,13,10,Keeley Jones,For the Children,,False
+666,3,2022,35,1016,13,10,Keeley Jones,Midnight Train to Royston,,False
+667,3,2022,35,1019,13,10,Dr. Sharon Fieldstone,Headspace,,False
+668,2,2021,283,988,15,10,Marcus Vaughn,New Eyes,,False
+669,3,2021,283,1014,15,10,Ava Daniels,I Think She Will,,False
+670,3,2022,283,1014,15,10,Ava Daniels,The Captain's Wife,,False
+671,3,2021,285,1015,15,10,Megan Briscoe,Arrivals and Departures,,False
+672,3,2011,307,999,24,10,Elka Ostrovsky,Free Elka,,False
+673,3,2012,264,595,7,10,Zoey Barkow,One-Armed Jacks,,False
+674,3,2013,264,595,7,10,Zoey Barkow,Teachable Moments,,True
+675,2,2010,73,405,10,2,Ben Linus,Dr. Linus,,False
+676,2,2010,73,1020,10,2,John Locke,The Substitute,,False
+677,2,2011,202,757,1,2,Will Gardner,Closing Arguments,,False
+678,2,2014,202,757,1,2,Will Gardner,Hitting the Fan,,False
+679,2,2011,202,1022,1,2,Eli Gold,Silver Bullet,,False
+680,2,2015,202,1022,1,2,Eli Gold,Undisclosed Recipients,,False
+681,3,2010,202,1043,1,2,Kalinda Sharma,Hi,,True
+682,3,2011,202,1043,1,2,Kalinda Sharma,Getting Off,,False
+683,3,2012,202,1043,1,2,Kalinda Sharma,The Dream Team,,False
+684,3,2010,202,1044,1,2,Diane Lockhart,Bang,,False
+685,3,2011,202,1044,1,2,Diane Lockhart,Silver Bullet,,False
+686,3,2012,202,1044,1,2,Diane Lockhart,Alienation of Affection,,False
+687,3,2013,202,1044,1,2,Diane Lockhart,The Seven Day Rule,,False
+688,3,2014,202,1044,1,2,Diane Lockhart,The Last Call,,False
+689,3,2015,202,1044,1,2,Diane Lockhart,Loser Edit,,False
+690,2,2017,82,1030,2,2,William H. Hill,Memphis,,False
+691,2,2019,82,1034,2,2,Toby Damon,Toby,,False
+692,2,2021,82,1034,2,2,Toby Damon,In the Room,,False
+693,3,2017,82,318,2,2,Kate Pearson,Pilot,,False
+694,2,2011,2,6,3,2,Tyrion Lannister,Baelor,,True
+695,2,2012,2,6,3,2,Tyrion Lannister,Blackwater,,False
+696,2,2013,2,6,3,2,Tyrion Lannister,Second Sons,,False
+697,2,2014,2,6,3,2,Tyrion Lannister,The Laws of Gods and Men,,False
+698,2,2015,2,6,3,2,Tyrion Lannister,Hardhome,,True
+699,2,2016,2,6,3,2,Tyrion Lannister,No One,,False
+700,2,2018,2,6,3,2,Tyrion Lannister,The Dragon and the Wolf,,True
+701,2,2019,2,6,3,2,Tyrion Lannister,The Iron Throne,,True
+702,2,2016,2,7,3,2,Jon Snow,Battle of the Bastards,,False
+703,2,2018,2,1031,3,2,Jaime Lannister,The Spoils of War,,False
+704,2,2019,2,1031,3,2,Jaime Lannister,A Knight of the Seven Kingdoms,,False
+705,2,2019,2,1033,3,2,Theon Greyjoy,The Long Night,,False
+706,3,2013,2,5,3,2,Daenerys Targaryen,And Now His Watch Is Ended,,False
+707,3,2015,2,5,3,2,Daenerys Targaryen,The Dance of Dragons,,False
+708,3,2016,2,5,3,2,Daenerys Targaryen,Book of the Stranger,,False
+709,3,2014,2,8,3,2,Cersei Lannister,The Lion and the Rose,,False
+710,3,2015,2,8,3,2,Cersei Lannister,Mother's Mercy,,False
+711,3,2016,2,8,3,2,Cersei Lannister,The Winds of Winter,,False
+712,3,2018,2,8,3,2,Cersei Lannister,The Dragon and the Wolf,,False
+713,3,2019,2,8,3,2,Cersei Lannister,The Bells,,False
+714,3,2016,2,1053,3,2,Arya Stark,No One,,False
+715,3,2019,2,1053,3,2,Arya Stark,The Long Night,,False
+716,3,2019,2,1058,3,2,Brienne of Tarth,A Knight of the Seven Kingdoms,,False
+717,3,2019,2,1060,3,2,Sansa Stark,Winterfell,,False
+718,2,2013,84,1025,3,2,Gyp Rosetti,Sunday Best,,True
+719,3,2011,84,324,3,2,Margaret Thompson,Family Limitation,,False
+720,2,2017,40,155,3,2,Bernard Lowe,The Well-Tempered Clavier,,False
+721,2,2020,40,155,3,2,Bernard Lowe,Crisis Theory,,False
+722,3,2017,40,157,3,2,Maeve Millay,Trace Decay,,False
+723,3,2018,40,157,3,2,Maeve Millay,Akane no Mai,,True
+724,3,2020,40,157,3,2,Maeve Millay,The Winter Line,,False
+725,2,2020,47,182,3,2,Greg Hirsch,This Is Not for Tears,,False
+726,2,2022,47,182,3,2,Greg Hirsch,Retired Janitors of Idaho,,False
+727,2,2020,47,184,3,2,Roman Roy,Tern Haven,,False
+728,2,2022,47,184,3,2,Roman Roy,Too Much Birthday,,False
+729,2,2020,47,1035,3,2,Tom Wambsgans,This Is Not for Tears,,False
+730,2,2022,47,1035,3,2,Tom Wambsgans,All the Bells Say,,True
+731,3,2020,47,1062,3,2,"Siobhan ""Shiv"" Roy",The Summer Palace,,False
+732,3,2022,47,1062,3,2,"Siobhan ""Shiv"" Roy",Chiantishire,,False
+733,3,2022,47,1070,3,2,Gerri Kellman,The Disruption,,False
+734,2,2021,290,1029,3,2,E.B. Jonathan,Chapter 4,,False
+735,2,2017,72,1029,8,2,Winston Churchill,Assassins,,True
+736,2,2021,289,1040,3,2,Montrose Freeman,Rewind 1921,,False
+737,3,2021,289,1065,3,2,Hippolyta Freeman,I Am.,,False
+738,3,2020,96,938,3,2,Renata Klein,Tell-Tale Hearts,,False
+739,3,2020,96,1063,3,2,Mary Louise Wright,I Want to Know,,False
+740,3,2022,136,1071,3,2,"Cassandra ""Cassie"" Howard",Ruminations: Big and Little Bullys,,False
+741,3,2015,150,970,8,2,"Suzanne ""Crazy Eyes"" Warren",Hugs Can Be Deceiving,,True
+742,3,2017,150,970,8,2,"Suzanne ""Crazy Eyes"" Warren",People Persons,,False
+743,2,2015,29,1027,8,2,Doug Stamper,Chapter 27,,False
+744,2,2016,29,1027,8,2,Doug Stamper,Chapter 44,,False
+745,2,2017,29,1027,8,2,Doug Stamper,Chapter 64,,False
+746,2,2019,29,1027,8,2,Doug Stamper,Chapter 73,,False
+747,2,2015,287,1028,8,2,Danny Rayburn,Part 12,,False
+748,2,2016,287,1028,8,2,Danny Rayburn,Part 23,,True
+749,2,2018,72,276,8,2,"Prince Philip, Duke of Edinburgh",Mystery Man,,False
+750,2,2021,72,1037,8,2,"Prince Philip, Duke of Edinburgh",Gold Stick,,True
+751,3,2018,72,1056,8,2,Princess Margaret,Beryl,,False
+752,3,2020,72,1061,8,2,Princess Margaret,Cri de Coeur,,False
+753,3,2021,72,1061,8,2,Princess Margaret,The Hereditary Principle,,False
+754,3,2021,72,258,8,2,Margaret Thatcher,Favourites,,True
+755,3,2021,72,1066,8,2,Camilla Parker Bowles,Fairytale,,False
+756,2,2017,13,52,8,2,Jim Hopper,Chapter Eight: The Upside Down,,False
+757,2,2018,13,52,8,2,Jim Hopper,Chapter Four: Will the Wise,,False
+758,3,2017,13,49,8,2,Eleven,Chapter Seven: The Bathtub,,False
+759,3,2018,13,49,8,2,Eleven,Chapter Three: The Pollywog,,False
+760,2,2022,141,1041,8,2,Oh Il-nam,Gganbu,,False
+761,2,2022,141,535,8,2,Cho Sang-woo,One Lucky Day,,False
+762,3,2022,141,1068,8,2,Kang Sae-byeok,Gganbu,,False
+763,3,2019,63,1057,8,2,Ruth Langmore,The Gold Coast,,True
+764,3,2020,63,1057,8,2,Ruth Langmore,In Case of Emergency,,True
+765,3,2022,63,1057,8,2,Ruth Langmore,Sanctified,,True
+766,2,2010,293,932,6,2,Leonard Winstone,You Haven't Replaced Me,,False
+767,3,2010,293,1045,6,2,Ellen Parsons,Your Secrets Are Safe,,False
+768,2,2011,125,464,6,2,Boyd Crowder,The I of the Storm,,False
+769,3,2011,125,1048,6,2,Mags Bennett,Brother's Keeper,,True
+770,2,2018,105,1032,12,2,Commander Fred Waterford,First Blood,,False
+771,2,2020,105,1036,12,2,Commander Joseph Lawrence,Sacrifice,,False
+772,2,2021,105,1036,12,2,Commander Joseph Lawrence,Testimony,,False
+773,2,2021,105,1038,12,2,Luke Bankole,Home,,False
+774,2,2021,105,1039,12,2,Commander Nick Blaine,The Crossing,,False
+775,3,2017,105,400,12,2,Aunt Lydia,Offred,,True
+776,3,2018,105,400,12,2,Aunt Lydia,June,,False
+777,3,2021,105,400,12,2,Aunt Lydia,Progress,,False
+778,3,2017,105,1055,12,2,Moira,Night,,False
+779,3,2020,105,1055,12,2,Moira Strand,Sacrifice,,False
+780,3,2021,105,1055,12,2,Moira Strand,Vows,,False
+781,3,2018,105,786,12,2,Emily / Ofsteven,Unwomen,,False
+782,3,2018,105,399,12,2,Serena Joy Waterford,Women's Work,,False
+783,3,2021,105,399,12,2,Serena Joy Waterford,Home,,False
+784,3,2021,105,1064,12,2,Janine Lindo,Testimony,,False
+785,2,2020,231,862,13,2,Cory Ellison,Chaos Is the New Cocaine,,True
+786,2,2022,231,862,13,2,Cory Ellison,My Least Favorite Year,,False
+787,2,2020,231,863,13,2,"Charles ""Chip"" Black",The Interview,,False
+788,2,2022,81,504,13,2,Irving Bailiff,Defiant Jazz,,False
+789,2,2022,81,1042,13,2,Burt Goodman,The Grim Barbarity of Optics and Design,,False
+790,3,2022,81,1067,13,2,Harmony Cobel,What's for Dinner?,,False
+791,2,2013,103,394,7,2,Saul Berenson,The Choice,,False
+792,2,2014,103,394,7,2,Saul Berenson,Gerontion,,False
+793,2,2017,103,394,7,2,Saul Berenson,America First,,False
+794,2,2018,103,394,7,2,Saul Berenson,Species Jump,,False
+795,3,2013,103,83,7,2,Jessica Brody,State of Independence,,False
+796,2,2014,224,1026,7,2,Mickey Donovan,Fite Nite,,False
+797,2,2016,224,1026,7,2,Mickey Donovan,The Kalamazoo,,False
+798,3,2016,314,1052,7,2,Helen Solloway,204,,False
+799,3,2022,303,1069,7,2,Misty Quigley,Sic Transit Gloria Mundi,,False
+800,2,2010,1,2,17,2,Jesse Pinkman,Half Measures,,True
+801,2,2012,1,2,17,2,Jesse Pinkman,End Times,,True
+802,2,2013,1,2,17,2,Jesse Pinkman,Buyout,,False
+803,2,2014,1,2,17,2,Jesse Pinkman,Confessions,,True
+804,2,2012,1,1023,17,2,Gus Fring,Hermanos,,False
+805,2,2019,15,1023,17,2,Gus Fring,Piñata,,False
+806,2,2020,15,1023,17,2,Gus Fring,JMM,,False
+807,2,2021,26,1023,25,2,Moff Gideon,Chapter 16: The Rescue,,False
+808,2,2013,1,59,17,2,Mike Ehrmantraut,Say My Name,,False
+809,2,2015,15,59,17,2,Mike Ehrmantraut,Five-O,,False
+810,2,2016,15,59,17,2,Mike Ehrmantraut,Bali Ha'i,,False
+811,2,2017,15,59,17,2,Mike Ehrmantraut,Witness,,False
+812,2,2019,15,59,17,2,Mike Ehrmantraut,Winner,,False
+813,3,2012,1,3,17,2,Skyler White,Cornered,,False
+814,3,2013,1,3,17,2,Skyler White,Fifty-One,,True
+815,3,2014,1,3,17,2,Skyler White,Ozymandias,,True
+816,2,2010,45,1021,17,2,Roger Sterling,The Gypsy and the Hobo,,False
+817,2,2011,45,1021,17,2,Roger Sterling,Hands and Knees,,False
+818,2,2012,45,10,17,2,Lane Pryce,Commissions and Fees,,False
+819,3,2010,45,1047,17,2,Joan Harris,Guy Walks Into an Advertising Agency,,False
+820,3,2011,45,1047,17,2,Joan Harris,The Summer Man,,False
+821,3,2012,45,1047,17,2,Joan Harris,The Other Woman,,False
+822,3,2013,45,1047,17,2,Joan Harris,A Tale of Two Cities,,False
+823,3,2014,45,1047,17,2,Joan Harris,The Strategy,,False
+824,3,2015,45,1047,17,2,Joan Harris,Lost Horizon,,False
+825,3,2010,45,175,17,2,Peggy Olson,Love Among the Ruins,,False
+826,3,2022,15,58,17,2,Kim Wexler,Hit and Run,,False
+827,3,2011,188,1049,17,2,Mitch Larsen,Pilot,,False
+828,2,2012,55,1024,19,2,Charles Carson,Episode 202,,False
+829,2,2013,55,1024,19,2,Charles Carson,Episode 306,,False
+830,2,2014,55,1024,19,2,Charles Carson,Episode 401,,False
+831,2,2015,55,1024,19,2,Charles Carson,A Moorland Holiday,,False
+832,2,2012,55,214,19,2,John Bates,Episode 207,,False
+833,3,2012,55,1050,19,2,Violet Crawley,Episode 201,,True
+834,3,2013,55,1050,19,2,Violet Crawley,Episode 301,,False
+835,3,2014,55,1050,19,2,Violet Crawley,Episode 408,,False
+836,3,2016,55,1050,19,2,Violet Crawley,Episode 606,,True
+837,3,2012,55,1051,19,2,Anna Bates,Episode 207,,False
+838,3,2014,55,1051,19,2,Anna Bates,Episode 404,,False
+839,3,2015,55,1051,19,2,Anna Bates,Episode 508,,False
+840,3,2010,313,1046,5,2,Madeline Westen,Devil You Know,,False
+841,3,2016,315,1054,26,2,Quinn King,Mother,,False
+842,3,2019,301,1059,22,2,Carolyn Martens,Nice and Neat,,False
+843,3,2020,301,1059,22,2,Carolyn Martens,Management Sucks,,False
